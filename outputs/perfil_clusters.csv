@@ -1,0 +1,6 @@
+cluster,customer_id,total_gastado_dop,frecuencia_mensual,es_cronico,ratio_negatividad,tasa_adherencia_promedio,descuento_promedio,recencia_dias,programa_lealtad
+0,1105,45204.37,2.68,1.0,0.11,0.79,0.02,34.12,0.67
+1,2877,2735.53,0.52,0.02,0.0,0.01,0.02,156.89,0.31
+2,1600,2896.74,0.5,0.04,0.31,0.03,0.02,191.07,0.33
+3,988,63.3,0.06,0.21,0.01,0.01,0.01,934.36,0.37
+4,1430,18707.92,1.87,1.0,0.08,0.77,0.02,56.48,0.65

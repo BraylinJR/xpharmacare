@@ -1,0 +1,15 @@
+﻿fecha_generacion,tipo,prioridad,mensaje,metrica_actual,umbral,clientes_afectados,accion_recomendada,impacto_estimado_dop
+2026-04-20 16:05,CHURN,CRÍTICA,"2,146 clientes con prob. fuga ≥80%",2146.0,100.0,2146,Activar protocolo retención inmediata — priorizar persuadibles de alto valor,42169.0
+2026-04-20 16:05,CHURN,CRÍTICA,"1 clientes ALTO VALOR (CLV≥RD$3,000) en riesgo crítico",1.0,0.0,1,Escalar a gerencia — Descuento+Llamada VIP inmediatamente,4437.0
+2026-04-20 16:05,ADHERENCIA,ALTA,1050 crónicos con ratio retraso >40%,1050.0,0.0,1050,Contactar para reactivar tratamiento,1678836.0
+2026-04-20 16:05,CHURN,ALTA,"1,472 clientes riesgo alto (60%-80%)",1472.0,100.0,1472,Campañas preventivas — emails reactivación y recordatorios,498369.0
+2026-04-20 16:05,CHURN,ALTA,Tasa churn general 48.8% — supera 40%,0.4876,0.4,3901,Revisar estrategia global de retención,0.0
+2026-04-20 16:05,OPERATIVO,ALTA,"2,602 inactivos (>180d sin compra) — 32.5%",2602.0,180.0,2602,Campaña reactivación segmentada,242521.0
+2026-04-20 16:05,UPLIFT,ALTA,"2,150 Sleeping Dogs (26.9%) — contactarlos DESTRUYE valor",0.2687,0.15,2150,Excluir de TODAS las campañas — lista de no contactar,0.0
+2026-04-20 16:05,UPLIFT,ALTA,454 ofertas alto impacto pendientes,454.0,200.0,454,Ejecutar priorizando persuadibles con mayor CLV,21475.0
+2026-04-20 16:05,OPERATIVO,MEDIA,964 crónicos SIN programa lealtad,964.0,0.0,964,Enrolar automáticamente en lealtad nivel Bronce,2779419.0
+2026-04-20 16:05,SENTIMIENTO,MEDIA,Resolución Call Center 75.4% (meta: 85%),0.7541,0.85,1442,Revisar protocolos — capacitar en resolución primer contacto,0.0
+2026-04-20 16:05,SENTIMIENTO,MEDIA,"Fricción recurrente: ""Retraso en delivery"" — 423 casos (7.2%)",423.0,293.0,402,"Investigar causa raíz de ""Retraso en delivery""",0.0
+2026-04-20 16:05,SENTIMIENTO,MEDIA,"Fricción recurrente: ""Medicamento agotado"" — 402 casos (6.9%)",402.0,293.0,384,"Investigar causa raíz de ""Medicamento agotado""",0.0
+2026-04-20 16:05,SENTIMIENTO,MEDIA,Intensidad negatividad promedio 0.75,0.75,0.5,1725,Quejas intensas — revisar calidad de servicio,0.0
+2026-04-20 16:05,UPLIFT,MEDIA,"2,822 persuadibles (35.3%) — solo estos responden a ofertas",0.3528,0.2,2822,Concentrar 100% presupuesto retención en este segmento,0.0
