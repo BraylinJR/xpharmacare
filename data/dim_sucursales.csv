@@ -1,0 +1,26 @@
+sucursal_id,nombre_sucursal,provincia,zona,tipo_sucursal,tiene_delivery,horario_extendido,capacidad_despachos_dia
+SUC-001,XFC Piantini,Distrito Nacional,Gran Santo Domingo,Estándar,True,True,166
+SUC-002,XFC Naco,Distrito Nacional,Gran Santo Domingo,Estándar,False,True,562
+SUC-003,XFC Zona Colonial,Distrito Nacional,Gran Santo Domingo,Estándar,True,True,311
+SUC-004,XFC Los Mina,Santo Domingo,Gran Santo Domingo,Express,False,True,355
+SUC-005,XFC Alma Rosa,Santo Domingo,Gran Santo Domingo,Express,True,True,287
+SUC-006,XFC Herrera,Santo Domingo,Gran Santo Domingo,Estándar,True,True,183
+SUC-007,XFC Los Alcarrizos,Santo Domingo,Gran Santo Domingo,Estándar,True,False,258
+SUC-008,XFC Santiago Centro,Santiago,Cibao Norte,Estándar,False,True,440
+SUC-009,XFC Reparto del Este,Santiago,Cibao Norte,Estándar,True,True,598
+SUC-010,XFC Gurabo,Santiago,Cibao Norte,Express,True,True,517
+SUC-011,XFC San Cristóbal,San Cristóbal,Valdesia,Estándar,True,True,311
+SUC-012,XFC La Vega Centro,La Vega,Cibao Sur,Estándar,False,False,258
+SUC-013,XFC Puerto Plata,Puerto Plata,Cibao Norte,Flagship,True,False,485
+SUC-014,XFC San Francisco de Macorís,Duarte,Cibao Nordeste,Estándar,False,False,405
+SUC-015,XFC San Pedro Centro,San Pedro de Macorís,Yuma,Express,True,True,352
+SUC-016,XFC La Romana Centro,La Romana,Yuma,Estándar,True,False,479
+SUC-017,XFC Higüey,La Altagracia,Yuma,Flagship,False,True,384
+SUC-018,XFC Moca,Espaillat,Cibao Norte,Express,True,True,223
+SUC-019,XFC Azua Centro,Azua,Valdesia,Estándar,True,False,285
+SUC-020,XFC San Juan Centro,San Juan,El Valle,Express,False,False,221
+SUC-021,XFC Barahona Centro,Barahona,Enriquillo,Estándar,True,False,276
+SUC-022,XFC Mao,Valverde,Cibao Noroeste,Estándar,False,False,531
+SUC-023,XFC Bonao,Monseñor Nouel,Cibao Sur,Flagship,True,False,437
+SUC-024,XFC Samaná,Samaná,Cibao Nordeste,Estándar,True,False,425
+SUC-025,XFC Monte Plata Centro,Monte Plata,Higuamo,Express,True,True,284

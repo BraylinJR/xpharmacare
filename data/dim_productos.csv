@@ -1,0 +1,181 @@
+product_id,nombre_producto,categoria,subcategoria,precio_venta_dop,costo_unitario_dop,margen_porcentaje,requiere_receta,es_generico,laboratorio,para_condicion_cronica
+PROD-0001,Metformina 850mg,Medicamentos Crónicos,Antidiabéticos,180,95,47.2,True,True,Laboratorio Sued,Diabetes Tipo 2
+PROD-0002,Metformina 500mg,Medicamentos Crónicos,Antidiabéticos,150,78,48.0,True,True,INFACA,Diabetes Tipo 2
+PROD-0003,Glibenclamida 5mg,Medicamentos Crónicos,Antidiabéticos,120,60,50.0,True,True,Laboratorio Sued,Diabetes Tipo 2
+PROD-0004,Insulina NPH 100UI,Medicamentos Crónicos,Antidiabéticos,850,520,38.8,True,False,Novo Nordisk,Diabetes Tipo 2
+PROD-0005,Insulina Glargina,Medicamentos Crónicos,Antidiabéticos,2800,1900,32.1,True,False,Sanofi,Diabetes Tipo 2
+PROD-0006,Sitagliptina 100mg,Medicamentos Crónicos,Antidiabéticos,1950,1200,38.5,True,False,MSD,Diabetes Tipo 2
+PROD-0007,Losartán 50mg,Medicamentos Crónicos,Antihipertensivos,200,85,57.5,True,True,INFACA,Hipertensión
+PROD-0008,Losartán 100mg,Medicamentos Crónicos,Antihipertensivos,320,140,56.2,True,True,Laboratorio Sued,Hipertensión
+PROD-0009,Enalapril 20mg,Medicamentos Crónicos,Antihipertensivos,150,65,56.7,True,True,Rowe,Hipertensión
+PROD-0010,Amlodipino 5mg,Medicamentos Crónicos,Antihipertensivos,180,80,55.6,True,True,INFACA,Hipertensión
+PROD-0011,Amlodipino 10mg,Medicamentos Crónicos,Antihipertensivos,250,110,56.0,True,True,Laboratorio Sued,Hipertensión
+PROD-0012,Valsartán 160mg,Medicamentos Crónicos,Antihipertensivos,450,250,44.4,True,False,Novartis,Hipertensión
+PROD-0013,Hidroclorotiazida 25mg,Medicamentos Crónicos,Antihipertensivos,90,35,61.1,True,True,Rowe,Hipertensión
+PROD-0014,Salbutamol Inhalador,Medicamentos Crónicos,Antiasmáticos,350,180,48.6,True,False,GSK,Asma
+PROD-0015,Budesonida Inhalador,Medicamentos Crónicos,Antiasmáticos,780,450,42.3,True,False,AstraZeneca,Asma
+PROD-0016,Montelukast 10mg,Medicamentos Crónicos,Antiasmáticos,550,280,49.1,True,True,MSD,Asma
+PROD-0017,Fluticasona Spray,Medicamentos Crónicos,Antiasmáticos,650,380,41.5,True,False,GSK,Asma
+PROD-0018,Atorvastatina 20mg,Medicamentos Crónicos,Hipolipemiantes,350,150,57.1,True,True,INFACA,Dislipidemia
+PROD-0019,Atorvastatina 40mg,Medicamentos Crónicos,Hipolipemiantes,500,220,56.0,True,True,Laboratorio Sued,Dislipidemia
+PROD-0020,Rosuvastatina 10mg,Medicamentos Crónicos,Hipolipemiantes,650,350,46.2,True,False,AstraZeneca,Dislipidemia
+PROD-0021,Simvastatina 20mg,Medicamentos Crónicos,Hipolipemiantes,200,85,57.5,True,True,Rowe,Dislipidemia
+PROD-0022,Levotiroxina 50mcg,Medicamentos Crónicos,Tiroides,280,130,53.6,True,True,Merck,Hipotiroidismo
+PROD-0023,Levotiroxina 100mcg,Medicamentos Crónicos,Tiroides,350,160,54.3,True,True,Merck,Hipotiroidismo
+PROD-0024,Levotiroxina 75mcg,Medicamentos Crónicos,Tiroides,310,145,53.2,True,False,Abbott,Hipotiroidismo
+PROD-0025,Metotrexato 2.5mg,Medicamentos Crónicos,Antirreumáticos,450,250,44.4,True,False,Pfizer,Artritis Reumatoide
+PROD-0026,Naproxeno 500mg,Medicamentos Crónicos,Antirreumáticos,180,75,58.3,True,True,Rowe,Artritis Reumatoide
+PROD-0027,Prednisona 5mg,Medicamentos Crónicos,Antirreumáticos,120,50,58.3,True,True,INFACA,Artritis Reumatoide
+PROD-0028,Sulfasalazina 500mg,Medicamentos Crónicos,Antirreumáticos,380,200,47.4,True,False,Pfizer,Artritis Reumatoide
+PROD-0029,Acetaminofén 500mg,OTC,Analgésicos,85,30,64.7,False,True,INFACA,N/A
+PROD-0030,Ibuprofeno 400mg,OTC,Analgésicos,120,45,62.5,False,True,Rowe,N/A
+PROD-0031,Aspirina 500mg,OTC,Analgésicos,75,25,66.7,False,True,Bayer,N/A
+PROD-0032,Diclofenaco 50mg,OTC,Analgésicos,100,40,60.0,False,True,Novartis,N/A
+PROD-0033,Antigripal Forte,OTC,Antigripales,150,55,63.3,False,False,Laboratorio Sued,N/A
+PROD-0034,Descongestionante Nasal,OTC,Antigripales,180,70,61.1,False,False,GSK,N/A
+PROD-0035,Jarabe para Tos,OTC,Antigripales,220,90,59.1,False,False,Rowe,N/A
+PROD-0036,Omeprazol 20mg,OTC,Digestivos,140,50,64.3,False,True,INFACA,N/A
+PROD-0037,Ranitidina 150mg,OTC,Digestivos,110,40,63.6,False,True,Rowe,N/A
+PROD-0038,Sales de Rehidratación,OTC,Digestivos,60,20,66.7,False,True,OMS,N/A
+PROD-0039,Loperamida 2mg,OTC,Digestivos,95,35,63.2,False,True,J&J,N/A
+PROD-0040,Loratadina 10mg,OTC,Antihistamínicos,130,45,65.4,False,True,INFACA,N/A
+PROD-0041,Cetirizina 10mg,OTC,Antihistamínicos,140,50,64.3,False,True,Laboratorio Sued,N/A
+PROD-0042,Vitamina C 1000mg,Vitaminas y Suplementos,Vitaminas,250,100,60.0,False,False,Nature Made,N/A
+PROD-0043,Vitamina D3 1000UI,Vitaminas y Suplementos,Vitaminas,350,150,57.1,False,False,Now Foods,N/A
+PROD-0044,Complejo B,Vitaminas y Suplementos,Vitaminas,200,80,60.0,False,False,INFACA,N/A
+PROD-0045,Multivitamínico Adulto,Vitaminas y Suplementos,Vitaminas,450,200,55.6,False,False,Centrum,N/A
+PROD-0046,Omega 3 1000mg,Vitaminas y Suplementos,Vitaminas,380,170,55.3,False,False,Nature Made,N/A
+PROD-0047,Ácido Fólico 5mg,Vitaminas y Suplementos,Vitaminas,150,60,60.0,False,False,Rowe,N/A
+PROD-0048,Calcio + Vitamina D,Vitaminas y Suplementos,Suplementos,300,130,56.7,False,False,Nature Made,N/A
+PROD-0049,Hierro Fumarato,Vitaminas y Suplementos,Suplementos,180,70,61.1,False,False,INFACA,N/A
+PROD-0050,Probióticos,Vitaminas y Suplementos,Suplementos,550,280,49.1,False,False,Culturelle,N/A
+PROD-0051,Protector Solar FPS 50,Cuidado Personal,Dermatológicos,480,220,54.2,False,False,La Roche-Posay,N/A
+PROD-0052,Crema Hidratante Corporal,Cuidado Personal,Dermatológicos,320,140,56.2,False,False,Cetaphil,N/A
+PROD-0053,Shampoo Medicado,Cuidado Personal,Dermatológicos,380,170,55.3,False,False,Head & Shoulders,N/A
+PROD-0054,Alcohol 70% 500ml,Cuidado Personal,Higiene,120,45,62.5,False,False,Local,N/A
+PROD-0055,Gel Antibacterial 250ml,Cuidado Personal,Higiene,150,55,63.3,False,False,Local,N/A
+PROD-0056,Mascarillas KN95 x10,Cuidado Personal,Higiene,200,80,60.0,False,False,Importado,N/A
+PROD-0057,Glucómetro Digital,Equipos Médicos,Monitoreo,1200,650,45.8,False,False,Accu-Chek,Diabetes Tipo 2
+PROD-0058,Tiras Reactivas x50,Equipos Médicos,Monitoreo,950,520,45.3,False,False,Accu-Chek,Diabetes Tipo 2
+PROD-0059,Tensiómetro Digital,Equipos Médicos,Monitoreo,1800,900,50.0,False,False,Omron,Hipertensión
+PROD-0060,Oxímetro de Pulso,Equipos Médicos,Monitoreo,800,380,52.5,False,False,Importado,N/A
+PROD-0061,Nebulizador,Equipos Médicos,Monitoreo,2500,1300,48.0,False,False,Omron,Asma
+PROD-0062,Jeringas de Insulina x100,Equipos Médicos,Insumos,450,200,55.6,False,False,BD,Diabetes Tipo 2
+PROD-0063,Algodón 500g,Equipos Médicos,Insumos,120,45,62.5,False,False,Local,N/A
+PROD-0064,Curitas x100,Equipos Médicos,Insumos,80,30,62.5,False,False,Band-Aid,N/A
+PROD-0065,Gel Antibacterial 250ml Pediátrico,Cuidado Personal,Higiene,153,56,63.4,False,False,Local,N/A
+PROD-0066,Acetaminofén 500mg x60,OTC,Analgésicos,94,33,64.9,False,True,INFACA,N/A
+PROD-0067,Valsartán 160mg XR,Medicamentos Crónicos,Antihipertensivos,332,184,44.6,True,False,Novartis,Hipertensión
+PROD-0068,Budesonida Inhalador x60,Medicamentos Crónicos,Antiasmáticos,938,541,42.3,True,False,AstraZeneca,Asma
+PROD-0069,Gel Antibacterial 250ml Pediátrico,Cuidado Personal,Higiene,113,41,63.7,False,False,Local,N/A
+PROD-0070,Hierro Fumarato Pediátrico,Vitaminas y Suplementos,Suplementos,269,105,61.0,False,False,INFACA,N/A
+PROD-0071,Antigripal Forte Pediátrico,OTC,Antigripales,208,76,63.5,False,False,Laboratorio Sued,N/A
+PROD-0072,Metformina 500mg Forte,Medicamentos Crónicos,Antidiabéticos,191,100,47.6,True,True,INFACA,Diabetes Tipo 2
+PROD-0073,Jarabe para Tos XR,OTC,Antigripales,267,109,59.2,False,False,Rowe,N/A
+PROD-0074,Budesonida Inhalador x90,Medicamentos Crónicos,Antiasmáticos,817,472,42.2,True,False,AstraZeneca,Asma
+PROD-0075,Tensiómetro Digital x30,Equipos Médicos,Monitoreo,2633,1317,50.0,False,False,Omron,Hipertensión
+PROD-0076,Descongestionante Nasal Pediátrico,OTC,Antigripales,236,92,61.0,False,False,GSK,N/A
+PROD-0077,Salbutamol Inhalador XR,Medicamentos Crónicos,Antiasmáticos,420,216,48.6,True,False,GSK,Asma
+PROD-0078,Naproxeno 500mg x60,Medicamentos Crónicos,Antirreumáticos,180,75,58.3,True,True,Rowe,Artritis Reumatoide
+PROD-0079,Simvastatina 20mg Pediátrico,Medicamentos Crónicos,Hipolipemiantes,293,124,57.7,True,True,Rowe,Dislipidemia
+PROD-0080,Metformina 850mg Pediátrico,Medicamentos Crónicos,Antidiabéticos,173,91,47.4,True,True,Laboratorio Sued,Diabetes Tipo 2
+PROD-0081,Glibenclamida 5mg x30,Medicamentos Crónicos,Antidiabéticos,173,87,49.7,True,True,Laboratorio Sued,Diabetes Tipo 2
+PROD-0082,Loratadina 10mg x60,OTC,Antihistamínicos,97,34,64.9,False,True,INFACA,N/A
+PROD-0083,Amlodipino 10mg x30,Medicamentos Crónicos,Antihipertensivos,321,141,56.1,True,True,Laboratorio Sued,Hipertensión
+PROD-0084,Enalapril 20mg XR,Medicamentos Crónicos,Antihipertensivos,169,73,56.8,True,True,Rowe,Hipertensión
+PROD-0085,Fluticasona Spray x60,Medicamentos Crónicos,Antiasmáticos,798,467,41.5,True,False,GSK,Asma
+PROD-0086,Levotiroxina 50mcg x90,Medicamentos Crónicos,Tiroides,314,146,53.5,True,True,Merck,Hipotiroidismo
+PROD-0087,Gel Antibacterial 250ml x60,Cuidado Personal,Higiene,216,79,63.4,False,False,Local,N/A
+PROD-0088,Naproxeno 500mg Forte,Medicamentos Crónicos,Antirreumáticos,171,71,58.5,True,True,Rowe,Artritis Reumatoide
+PROD-0089,Calcio + Vitamina D Suspensión,Vitaminas y Suplementos,Suplementos,426,185,56.6,False,False,Nature Made,N/A
+PROD-0090,Tiras Reactivas x30,Equipos Médicos,Monitoreo,853,467,45.3,False,False,Accu-Chek,Diabetes Tipo 2
+PROD-0091,Enalapril 20mg x90,Medicamentos Crónicos,Antihipertensivos,108,47,56.5,True,True,Rowe,Hipertensión
+PROD-0092,Ibuprofeno 400mg Pediátrico,OTC,Analgésicos,105,39,62.9,False,True,Rowe,N/A
+PROD-0093,Amlodipino 5mg Forte,Medicamentos Crónicos,Antihipertensivos,217,96,55.8,True,True,INFACA,Hipertensión
+PROD-0094,Ibuprofeno 400mg x30,OTC,Analgésicos,171,64,62.6,False,True,Rowe,N/A
+PROD-0095,Vitamina D3 1000UI x30,Vitaminas y Suplementos,Vitaminas,389,167,57.1,False,False,Now Foods,N/A
+PROD-0096,Omeprazol 20mg Forte,OTC,Digestivos,152,54,64.5,False,True,INFACA,N/A
+PROD-0097,Fluticasona Spray Forte,Medicamentos Crónicos,Antiasmáticos,941,550,41.6,True,False,GSK,Asma
+PROD-0098,Nebulizador x60,Equipos Médicos,Monitoreo,3319,1726,48.0,False,False,Omron,Asma
+PROD-0099,Shampoo Medicado x60,Cuidado Personal,Dermatológicos,295,132,55.3,False,False,Head & Shoulders,N/A
+PROD-0100,Mascarillas KN95 x90,Cuidado Personal,Higiene,208,83,60.1,False,False,Importado,N/A
+PROD-0101,Oxímetro de Pulso XR,Equipos Médicos,Monitoreo,1027,488,52.5,False,False,Importado,N/A
+PROD-0102,Hidroclorotiazida 25mg x30,Medicamentos Crónicos,Antihipertensivos,92,36,60.9,True,True,Rowe,Hipertensión
+PROD-0103,Complejo B XR,Vitaminas y Suplementos,Vitaminas,278,111,60.1,False,False,INFACA,N/A
+PROD-0104,Diclofenaco 50mg x60,OTC,Analgésicos,85,34,60.0,False,True,Novartis,N/A
+PROD-0105,Tiras Reactivas x60,Equipos Médicos,Monitoreo,986,540,45.2,False,False,Accu-Chek,Diabetes Tipo 2
+PROD-0106,Omeprazol 20mg Suspensión,OTC,Digestivos,126,45,64.3,False,True,INFACA,N/A
+PROD-0107,Amlodipino 5mg Suspensión,Medicamentos Crónicos,Antihipertensivos,242,108,55.4,True,True,INFACA,Hipertensión
+PROD-0108,Hidroclorotiazida 25mg x30,Medicamentos Crónicos,Antihipertensivos,110,43,60.9,True,True,Rowe,Hipertensión
+PROD-0109,Metformina 500mg x30,Medicamentos Crónicos,Antidiabéticos,216,112,48.1,True,True,INFACA,Diabetes Tipo 2
+PROD-0110,Aspirina 500mg x60,OTC,Analgésicos,77,26,66.2,False,True,Bayer,N/A
+PROD-0111,Jeringas de Insulina x60,Equipos Médicos,Insumos,626,278,55.6,False,False,BD,Diabetes Tipo 2
+PROD-0112,Losartán 100mg x60,Medicamentos Crónicos,Antihipertensivos,321,140,56.4,True,True,Laboratorio Sued,Hipertensión
+PROD-0113,Probióticos x90,Vitaminas y Suplementos,Suplementos,793,404,49.1,False,False,Culturelle,N/A
+PROD-0114,Tensiómetro Digital x90,Equipos Médicos,Monitoreo,1869,935,50.0,False,False,Omron,Hipertensión
+PROD-0115,Algodón 500g x60,Equipos Médicos,Insumos,102,38,62.7,False,False,Local,N/A
+PROD-0116,Sulfasalazina 500mg x30,Medicamentos Crónicos,Antirreumáticos,442,233,47.3,True,False,Pfizer,Artritis Reumatoide
+PROD-0117,Losartán 100mg Forte,Medicamentos Crónicos,Antihipertensivos,304,133,56.2,True,True,Laboratorio Sued,Hipertensión
+PROD-0118,Losartán 50mg Pediátrico,Medicamentos Crónicos,Antihipertensivos,216,92,57.4,True,True,INFACA,Hipertensión
+PROD-0119,Simvastatina 20mg x30,Medicamentos Crónicos,Hipolipemiantes,294,125,57.5,True,True,Rowe,Dislipidemia
+PROD-0120,Amlodipino 10mg XR,Medicamentos Crónicos,Antihipertensivos,212,93,56.1,True,True,Laboratorio Sued,Hipertensión
+PROD-0121,Enalapril 20mg Forte,Medicamentos Crónicos,Antihipertensivos,208,90,56.7,True,True,Rowe,Hipertensión
+PROD-0122,Crema Hidratante Corporal x30,Cuidado Personal,Dermatológicos,465,203,56.3,False,False,Cetaphil,N/A
+PROD-0123,Diclofenaco 50mg Pediátrico,OTC,Analgésicos,118,47,60.2,False,True,Novartis,N/A
+PROD-0124,Amlodipino 10mg Suspensión,Medicamentos Crónicos,Antihipertensivos,306,135,55.9,True,True,Laboratorio Sued,Hipertensión
+PROD-0125,Cetirizina 10mg x90,OTC,Antihistamínicos,121,43,64.5,False,True,Laboratorio Sued,N/A
+PROD-0126,Cetirizina 10mg x60,OTC,Antihistamínicos,128,46,64.1,False,True,Laboratorio Sued,N/A
+PROD-0127,Fluticasona Spray Forte,Medicamentos Crónicos,Antiasmáticos,791,462,41.6,True,False,GSK,Asma
+PROD-0128,Tensiómetro Digital x90,Equipos Médicos,Monitoreo,2598,1299,50.0,False,False,Omron,Hipertensión
+PROD-0129,Amlodipino 5mg x30,Medicamentos Crónicos,Antihipertensivos,192,85,55.7,True,True,INFACA,Hipertensión
+PROD-0130,Hidroclorotiazida 25mg x30,Medicamentos Crónicos,Antihipertensivos,102,40,60.8,True,True,Rowe,Hipertensión
+PROD-0131,Descongestionante Nasal x60,OTC,Antigripales,260,101,61.2,False,False,GSK,N/A
+PROD-0132,Enalapril 20mg x60,Medicamentos Crónicos,Antihipertensivos,149,65,56.4,True,True,Rowe,Hipertensión
+PROD-0133,Simvastatina 20mg Suspensión,Medicamentos Crónicos,Hipolipemiantes,273,116,57.5,True,True,Rowe,Dislipidemia
+PROD-0134,Loperamida 2mg Pediátrico,OTC,Digestivos,141,52,63.1,False,True,J&J,N/A
+PROD-0135,Metformina 500mg Forte,Medicamentos Crónicos,Antidiabéticos,203,106,47.8,True,True,INFACA,Diabetes Tipo 2
+PROD-0136,Loperamida 2mg Forte,OTC,Digestivos,74,27,63.5,False,True,J&J,N/A
+PROD-0137,Atorvastatina 20mg x90,Medicamentos Crónicos,Hipolipemiantes,277,119,57.0,True,True,INFACA,Dislipidemia
+PROD-0138,Salbutamol Inhalador Forte,Medicamentos Crónicos,Antiasmáticos,400,206,48.5,True,False,GSK,Asma
+PROD-0139,Jarabe para Tos x90,OTC,Antigripales,260,107,58.8,False,False,Rowe,N/A
+PROD-0140,Complejo B x60,Vitaminas y Suplementos,Vitaminas,250,100,60.0,False,False,INFACA,N/A
+PROD-0141,Descongestionante Nasal Pediátrico,OTC,Antigripales,196,76,61.2,False,False,GSK,N/A
+PROD-0142,Losartán 50mg x30,Medicamentos Crónicos,Antihipertensivos,241,103,57.3,True,True,INFACA,Hipertensión
+PROD-0143,Omeprazol 20mg x30,OTC,Digestivos,98,35,64.3,False,True,INFACA,N/A
+PROD-0144,Fluticasona Spray Forte,Medicamentos Crónicos,Antiasmáticos,964,564,41.5,True,False,GSK,Asma
+PROD-0145,Simvastatina 20mg Forte,Medicamentos Crónicos,Hipolipemiantes,211,90,57.3,True,True,Rowe,Dislipidemia
+PROD-0146,Gel Antibacterial 250ml Pediátrico,Cuidado Personal,Higiene,106,39,63.2,False,False,Local,N/A
+PROD-0147,Amlodipino 5mg Forte,Medicamentos Crónicos,Antihipertensivos,256,114,55.5,True,True,INFACA,Hipertensión
+PROD-0148,Insulina Glargina XR,Medicamentos Crónicos,Antidiabéticos,2787,1891,32.1,True,False,Sanofi,Diabetes Tipo 2
+PROD-0149,Atorvastatina 40mg Suspensión,Medicamentos Crónicos,Hipolipemiantes,401,176,56.1,True,True,Laboratorio Sued,Dislipidemia
+PROD-0150,Loratadina 10mg x90,OTC,Antihistamínicos,184,64,65.2,False,True,INFACA,N/A
+PROD-0151,Sitagliptina 100mg x90,Medicamentos Crónicos,Antidiabéticos,1693,1042,38.5,True,False,MSD,Diabetes Tipo 2
+PROD-0152,Diclofenaco 50mg Forte,OTC,Analgésicos,78,31,60.3,False,True,Novartis,N/A
+PROD-0153,Shampoo Medicado Pediátrico,Cuidado Personal,Dermatológicos,494,221,55.3,False,False,Head & Shoulders,N/A
+PROD-0154,Aspirina 500mg XR,OTC,Analgésicos,62,21,66.1,False,True,Bayer,N/A
+PROD-0155,Levotiroxina 100mcg Suspensión,Medicamentos Crónicos,Tiroides,252,115,54.4,True,True,Merck,Hipotiroidismo
+PROD-0156,Vitamina D3 1000UI XR,Vitaminas y Suplementos,Vitaminas,506,217,57.1,False,False,Now Foods,N/A
+PROD-0157,Diclofenaco 50mg x90,OTC,Analgésicos,83,33,60.2,False,True,Novartis,N/A
+PROD-0158,Salbutamol Inhalador Suspensión,Medicamentos Crónicos,Antiasmáticos,489,252,48.5,True,False,GSK,Asma
+PROD-0159,Nebulizador x60,Equipos Médicos,Monitoreo,2149,1118,48.0,False,False,Omron,Asma
+PROD-0160,Tensiómetro Digital x90,Equipos Médicos,Monitoreo,1699,850,50.0,False,False,Omron,Hipertensión
+PROD-0161,Ibuprofeno 400mg x60,OTC,Analgésicos,86,32,62.8,False,True,Rowe,N/A
+PROD-0162,Metotrexato 2.5mg Suspensión,Medicamentos Crónicos,Antirreumáticos,433,241,44.3,True,False,Pfizer,Artritis Reumatoide
+PROD-0163,Enalapril 20mg XR,Medicamentos Crónicos,Antihipertensivos,138,60,56.5,True,True,Rowe,Hipertensión
+PROD-0164,Crema Hidratante Corporal Forte,Cuidado Personal,Dermatológicos,475,208,56.2,False,False,Cetaphil,N/A
+PROD-0165,Vitamina D3 1000UI x30,Vitaminas y Suplementos,Vitaminas,277,119,57.0,False,False,Now Foods,N/A
+PROD-0166,Descongestionante Nasal x60,OTC,Antigripales,210,82,61.0,False,False,GSK,N/A
+PROD-0167,Descongestionante Nasal x30,OTC,Antigripales,142,55,61.3,False,False,GSK,N/A
+PROD-0168,Mascarillas KN95 x90,Cuidado Personal,Higiene,257,103,59.9,False,False,Importado,N/A
+PROD-0169,Cetirizina 10mg Suspensión,OTC,Antihistamínicos,166,59,64.5,False,True,Laboratorio Sued,N/A
+PROD-0170,Budesonida Inhalador Suspensión,Medicamentos Crónicos,Antiasmáticos,1107,639,42.3,True,False,AstraZeneca,Asma
+PROD-0171,Metotrexato 2.5mg x90,Medicamentos Crónicos,Antirreumáticos,331,184,44.4,True,False,Pfizer,Artritis Reumatoide
+PROD-0172,Mascarillas KN95 x30,Cuidado Personal,Higiene,223,89,60.1,False,False,Importado,N/A
+PROD-0173,Naproxeno 500mg x90,Medicamentos Crónicos,Antirreumáticos,188,78,58.5,True,True,Rowe,Artritis Reumatoide
+PROD-0174,Vitamina D3 1000UI Pediátrico,Vitaminas y Suplementos,Vitaminas,333,143,57.1,False,False,Now Foods,N/A
+PROD-0175,Montelukast 10mg Forte,Medicamentos Crónicos,Antiasmáticos,781,398,49.0,True,True,MSD,Asma
+PROD-0176,Loratadina 10mg Forte,OTC,Antihistamínicos,133,46,65.4,False,True,INFACA,N/A
+PROD-0177,Crema Hidratante Corporal Forte,Cuidado Personal,Dermatológicos,300,131,56.3,False,False,Cetaphil,N/A
+PROD-0178,Fluticasona Spray x60,Medicamentos Crónicos,Antiasmáticos,674,394,41.5,True,False,GSK,Asma
+PROD-0179,Hierro Fumarato Forte,Vitaminas y Suplementos,Suplementos,234,91,61.1,False,False,INFACA,N/A
+PROD-0180,Levotiroxina 100mcg Pediátrico,Medicamentos Crónicos,Tiroides,404,185,54.2,True,True,Merck,Hipotiroidismo

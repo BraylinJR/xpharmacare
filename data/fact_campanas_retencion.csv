@@ -1,0 +1,2001 @@
+customer_id,grupo_experimento,tipo_oferta,descuento_ofrecido_pct,fecha_campana,periodo_observacion_dias,hizo_churn_post_campana,compras_post_campana,gasto_post_campana_dop
+XFC-02216,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1627.67
+XFC-02583,Control,Ninguna,0,2025-09-01,60,False,2,1831.33
+XFC-01663,Control,Ninguna,0,2025-09-01,60,False,4,3612.16
+XFC-03028,Control,Ninguna,0,2025-09-01,60,False,2,2784.7
+XFC-04344,Control,Ninguna,0,2025-09-01,60,False,3,2279.78
+XFC-02681,Control,Ninguna,0,2025-09-01,60,False,9,2782.94
+XFC-01766,Control,Ninguna,0,2025-09-01,60,True,0,520.26
+XFC-01124,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2226.03
+XFC-04055,Tratamiento,Envío gratis,5,2025-09-01,60,True,0,142.14
+XFC-03762,Tratamiento,Envío gratis,5,2025-09-01,60,True,0,0.0
+XFC-01536,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2936.95
+XFC-02945,Control,Ninguna,0,2025-09-01,60,False,5,2268.85
+XFC-02988,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,2131.09
+XFC-04292,Control,Ninguna,0,2025-09-01,60,False,2,2724.6
+XFC-04343,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2727.42
+XFC-04425,Control,Ninguna,0,2025-09-01,60,False,4,2670.71
+XFC-07942,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,1347.69
+XFC-04998,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,2785.81
+XFC-02749,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,4502.47
+XFC-02303,Tratamiento,Descuento 10%,10,2025-09-01,60,True,1,1295.55
+XFC-03933,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2670.57
+XFC-05957,Control,Ninguna,0,2025-09-01,60,False,0,1466.94
+XFC-06132,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-07597,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,3526.82
+XFC-00795,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2820.57
+XFC-03164,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-07941,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3692.57
+XFC-03182,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,3519.54
+XFC-00764,Control,Ninguna,0,2025-09-01,60,False,2,3964.58
+XFC-03079,Control,Ninguna,0,2025-09-01,60,False,3,2336.88
+XFC-00812,Control,Ninguna,0,2025-09-01,60,False,2,2056.89
+XFC-07260,Control,Ninguna,0,2025-09-01,60,False,3,2103.28
+XFC-06932,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3619.65
+XFC-01619,Control,Ninguna,0,2025-09-01,60,False,5,3385.78
+XFC-06827,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,1110.85
+XFC-01043,Control,Ninguna,0,2025-09-01,60,False,1,2996.32
+XFC-05319,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2836.05
+XFC-04795,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,3836.61
+XFC-00488,Control,Ninguna,0,2025-09-01,60,False,2,2262.89
+XFC-01018,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3081.18
+XFC-02816,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2895.08
+XFC-02717,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,1632.76
+XFC-05364,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,2641.25
+XFC-02930,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,1036.98
+XFC-03363,Control,Ninguna,0,2025-09-01,60,False,7,1982.83
+XFC-05166,Control,Ninguna,0,2025-09-01,60,False,4,2017.68
+XFC-01076,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2066.22
+XFC-06399,Tratamiento,Envío gratis,5,2025-09-01,60,True,1,604.4
+XFC-04982,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2461.8
+XFC-06229,Control,Ninguna,0,2025-09-01,60,True,0,1095.42
+XFC-02922,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2622.23
+XFC-04020,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-04332,Control,Ninguna,0,2025-09-01,60,True,0,758.23
+XFC-07000,Control,Ninguna,0,2025-09-01,60,False,4,3425.22
+XFC-01323,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3907.95
+XFC-07732,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3746.33
+XFC-02253,Control,Ninguna,0,2025-09-01,60,False,3,3120.98
+XFC-06655,Control,Ninguna,0,2025-09-01,60,False,4,2648.31
+XFC-07245,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,1206.76
+XFC-00867,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2849.49
+XFC-05592,Control,Ninguna,0,2025-09-01,60,False,4,1911.34
+XFC-02466,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3181.58
+XFC-00466,Control,Ninguna,0,2025-09-01,60,True,2,0.0
+XFC-02883,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-04962,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2888.95
+XFC-07043,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,1515.32
+XFC-06241,Control,Ninguna,0,2025-09-01,60,False,3,2518.55
+XFC-05448,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3295.21
+XFC-01503,Control,Ninguna,0,2025-09-01,60,True,0,175.18
+XFC-03916,Control,Ninguna,0,2025-09-01,60,False,2,2509.64
+XFC-03263,Control,Ninguna,0,2025-09-01,60,False,3,2305.69
+XFC-00264,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2175.06
+XFC-03807,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2679.72
+XFC-04085,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,7,3314.25
+XFC-07840,Tratamiento,Puntos dobles,8,2025-09-01,60,False,0,1946.4
+XFC-01812,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1334.0
+XFC-01145,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,2436.23
+XFC-05828,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3103.65
+XFC-02150,Control,Ninguna,0,2025-09-01,60,False,2,2807.03
+XFC-03930,Control,Ninguna,0,2025-09-01,60,False,5,3192.26
+XFC-06320,Control,Ninguna,0,2025-09-01,60,False,3,3204.82
+XFC-03291,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2247.4
+XFC-00683,Control,Ninguna,0,2025-09-01,60,False,2,1927.04
+XFC-02841,Control,Ninguna,0,2025-09-01,60,True,1,888.01
+XFC-01003,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,3403.87
+XFC-06756,Control,Ninguna,0,2025-09-01,60,False,3,3266.21
+XFC-05130,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,124.05
+XFC-04291,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,914.78
+XFC-02174,Control,Ninguna,0,2025-09-01,60,False,0,3874.83
+XFC-00484,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2703.08
+XFC-03814,Control,Ninguna,0,2025-09-01,60,True,0,597.02
+XFC-04415,Control,Ninguna,0,2025-09-01,60,False,1,2023.2
+XFC-00519,Control,Ninguna,0,2025-09-01,60,False,2,1757.68
+XFC-06989,Control,Ninguna,0,2025-09-01,60,False,3,3639.97
+XFC-01346,Control,Ninguna,0,2025-09-01,60,False,5,2528.39
+XFC-00697,Control,Ninguna,0,2025-09-01,60,False,2,2917.6
+XFC-01010,Control,Ninguna,0,2025-09-01,60,False,0,2073.33
+XFC-06318,Control,Ninguna,0,2025-09-01,60,False,3,2315.61
+XFC-06596,Control,Ninguna,0,2025-09-01,60,False,2,3465.25
+XFC-02771,Tratamiento,Descuento 15%,15,2025-09-01,60,False,0,2639.19
+XFC-01075,Control,Ninguna,0,2025-09-01,60,False,1,4090.38
+XFC-01340,Control,Ninguna,0,2025-09-01,60,True,2,1080.3
+XFC-02987,Control,Ninguna,0,2025-09-01,60,False,2,3343.07
+XFC-07710,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,3280.3
+XFC-06748,Control,Ninguna,0,2025-09-01,60,False,3,2400.33
+XFC-04422,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,2364.29
+XFC-03393,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1834.91
+XFC-01484,Control,Ninguna,0,2025-09-01,60,False,2,2455.19
+XFC-04862,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2006.51
+XFC-01935,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-01035,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,3494.41
+XFC-05485,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,3515.41
+XFC-02479,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-00350,Control,Ninguna,0,2025-09-01,60,False,6,2056.71
+XFC-04394,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1017.85
+XFC-04353,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-07558,Control,Ninguna,0,2025-09-01,60,False,6,1833.41
+XFC-01062,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,671.03
+XFC-00880,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,1662.0
+XFC-05603,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2298.16
+XFC-02543,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3122.38
+XFC-06424,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3632.05
+XFC-06745,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,1715.19
+XFC-01851,Control,Ninguna,0,2025-09-01,60,False,2,1336.29
+XFC-05403,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2896.2
+XFC-01678,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1908.94
+XFC-01836,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2914.49
+XFC-07112,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,0.0
+XFC-04953,Control,Ninguna,0,2025-09-01,60,False,5,2592.02
+XFC-04705,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2881.14
+XFC-05200,Control,Ninguna,0,2025-09-01,60,False,1,2567.53
+XFC-00458,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2588.34
+XFC-04648,Control,Ninguna,0,2025-09-01,60,False,2,3565.24
+XFC-06508,Control,Ninguna,0,2025-09-01,60,False,4,2926.27
+XFC-03183,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,1811.18
+XFC-05338,Control,Ninguna,0,2025-09-01,60,False,5,1893.87
+XFC-01946,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,1122.53
+XFC-06125,Control,Ninguna,0,2025-09-01,60,False,2,1430.64
+XFC-03264,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,4488.82
+XFC-06523,Control,Ninguna,0,2025-09-01,60,False,3,2584.26
+XFC-06522,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1672.55
+XFC-06703,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,1033.29
+XFC-02989,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3488.73
+XFC-07021,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,2592.68
+XFC-01551,Control,Ninguna,0,2025-09-01,60,False,5,3849.4
+XFC-02165,Control,Ninguna,0,2025-09-01,60,False,0,3114.66
+XFC-00587,Control,Ninguna,0,2025-09-01,60,False,2,3922.1
+XFC-02406,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,1563.64
+XFC-06801,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2669.6
+XFC-03429,Control,Ninguna,0,2025-09-01,60,False,5,2097.72
+XFC-02610,Tratamiento,Descuento 15%,15,2025-09-01,60,False,7,2962.44
+XFC-03657,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1712.32
+XFC-03215,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,2962.75
+XFC-03535,Control,Ninguna,0,2025-09-01,60,False,2,2909.25
+XFC-03287,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,3706.26
+XFC-02081,Tratamiento,Envío gratis,5,2025-09-01,60,True,0,0.0
+XFC-06956,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-06488,Control,Ninguna,0,2025-09-01,60,True,0,747.83
+XFC-00648,Tratamiento,Envío gratis,5,2025-09-01,60,True,0,0.0
+XFC-00223,Control,Ninguna,0,2025-09-01,60,False,4,2174.84
+XFC-06890,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,3426.67
+XFC-07679,Control,Ninguna,0,2025-09-01,60,False,3,3023.69
+XFC-00024,Control,Ninguna,0,2025-09-01,60,False,1,2798.5
+XFC-01906,Control,Ninguna,0,2025-09-01,60,True,2,0.0
+XFC-04079,Control,Ninguna,0,2025-09-01,60,False,3,3595.18
+XFC-01555,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2784.21
+XFC-05724,Control,Ninguna,0,2025-09-01,60,False,0,2972.07
+XFC-05205,Control,Ninguna,0,2025-09-01,60,False,1,2361.82
+XFC-07701,Control,Ninguna,0,2025-09-01,60,False,4,1838.54
+XFC-05841,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2592.69
+XFC-04946,Tratamiento,Descuento 15%,15,2025-09-01,60,False,10,2976.08
+XFC-01408,Control,Ninguna,0,2025-09-01,60,False,4,3213.7
+XFC-00066,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2609.08
+XFC-06341,Tratamiento,Descuento 15%,15,2025-09-01,60,False,6,3417.26
+XFC-01045,Control,Ninguna,0,2025-09-01,60,False,3,1564.12
+XFC-06689,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,3197.75
+XFC-07925,Control,Ninguna,0,2025-09-01,60,False,3,1807.73
+XFC-04744,Control,Ninguna,0,2025-09-01,60,False,1,2846.92
+XFC-02032,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1469.45
+XFC-05825,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3192.26
+XFC-05245,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,2902.57
+XFC-05037,Control,Ninguna,0,2025-09-01,60,False,2,1944.74
+XFC-00555,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1675.13
+XFC-07312,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2595.32
+XFC-04395,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,1689.1
+XFC-05395,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1987.04
+XFC-03536,Control,Ninguna,0,2025-09-01,60,False,4,624.47
+XFC-01700,Control,Ninguna,0,2025-09-01,60,False,5,3358.48
+XFC-06727,Control,Ninguna,0,2025-09-01,60,False,3,3920.18
+XFC-01056,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1809.48
+XFC-01407,Control,Ninguna,0,2025-09-01,60,False,2,2510.91
+XFC-03768,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2409.92
+XFC-00602,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2534.49
+XFC-01384,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,3870.09
+XFC-03333,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2148.19
+XFC-02119,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,3737.07
+XFC-04320,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,3316.71
+XFC-01913,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,4059.8
+XFC-03685,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2870.8
+XFC-07583,Control,Ninguna,0,2025-09-01,60,False,1,2225.74
+XFC-04814,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,1644.16
+XFC-01741,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2257.72
+XFC-05040,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-00928,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,4030.77
+XFC-05139,Control,Ninguna,0,2025-09-01,60,False,2,1934.72
+XFC-03579,Control,Ninguna,0,2025-09-01,60,False,1,3152.03
+XFC-04443,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,1064.7
+XFC-07473,Control,Ninguna,0,2025-09-01,60,True,0,1430.79
+XFC-07129,Control,Ninguna,0,2025-09-01,60,False,3,2718.21
+XFC-00240,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,3260.13
+XFC-02967,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2487.98
+XFC-03543,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3026.15
+XFC-06207,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3526.22
+XFC-03211,Control,Ninguna,0,2025-09-01,60,False,1,994.98
+XFC-00102,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2289.04
+XFC-00319,Tratamiento,Puntos dobles,8,2025-09-01,60,True,1,74.77
+XFC-04582,Control,Ninguna,0,2025-09-01,60,False,5,2557.87
+XFC-03188,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2711.04
+XFC-00534,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2853.39
+XFC-00738,Control,Ninguna,0,2025-09-01,60,True,1,1918.74
+XFC-01245,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,1330.35
+XFC-01143,Control,Ninguna,0,2025-09-01,60,False,2,2828.77
+XFC-04348,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1969.7
+XFC-07288,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1804.09
+XFC-06527,Control,Ninguna,0,2025-09-01,60,False,3,2621.85
+XFC-01329,Control,Ninguna,0,2025-09-01,60,False,4,3824.03
+XFC-07098,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2322.7
+XFC-06614,Control,Ninguna,0,2025-09-01,60,False,4,1506.22
+XFC-01929,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,1062.48
+XFC-05005,Control,Ninguna,0,2025-09-01,60,True,3,856.03
+XFC-00497,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,3921.47
+XFC-07545,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2287.48
+XFC-02772,Control,Ninguna,0,2025-09-01,60,False,4,1751.65
+XFC-00473,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2271.97
+XFC-05051,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2111.23
+XFC-04077,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,1636.93
+XFC-03917,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1807.04
+XFC-00545,Control,Ninguna,0,2025-09-01,60,True,0,127.93
+XFC-04177,Control,Ninguna,0,2025-09-01,60,False,3,2819.92
+XFC-01243,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1727.56
+XFC-07331,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2973.65
+XFC-05539,Control,Ninguna,0,2025-09-01,60,False,1,3399.24
+XFC-00335,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2510.75
+XFC-07133,Control,Ninguna,0,2025-09-01,60,False,5,1857.01
+XFC-01316,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1845.65
+XFC-01920,Tratamiento,Descuento 15%,15,2025-09-01,60,False,7,1161.47
+XFC-02185,Control,Ninguna,0,2025-09-01,60,False,3,1612.22
+XFC-03862,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2500.0
+XFC-07410,Control,Ninguna,0,2025-09-01,60,True,0,580.23
+XFC-04646,Tratamiento,Descuento 15%,15,2025-09-01,60,False,6,2281.25
+XFC-00133,Control,Ninguna,0,2025-09-01,60,False,4,2169.53
+XFC-03961,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,0.0
+XFC-06352,Control,Ninguna,0,2025-09-01,60,False,2,3096.43
+XFC-02246,Control,Ninguna,0,2025-09-01,60,True,0,1279.07
+XFC-00541,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2016.44
+XFC-06147,Control,Ninguna,0,2025-09-01,60,False,4,2721.23
+XFC-02030,Control,Ninguna,0,2025-09-01,60,False,2,2089.84
+XFC-00038,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,1895.63
+XFC-07637,Control,Ninguna,0,2025-09-01,60,False,4,3915.93
+XFC-07574,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,3061.38
+XFC-02019,Control,Ninguna,0,2025-09-01,60,False,0,2221.5
+XFC-02112,Control,Ninguna,0,2025-09-01,60,False,1,2711.2
+XFC-02403,Control,Ninguna,0,2025-09-01,60,False,3,3831.78
+XFC-00749,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1759.99
+XFC-07568,Control,Ninguna,0,2025-09-01,60,False,1,1281.04
+XFC-02457,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,1490.69
+XFC-07513,Control,Ninguna,0,2025-09-01,60,False,2,2118.09
+XFC-02345,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3114.96
+XFC-00096,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,1678.81
+XFC-06252,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2304.82
+XFC-07865,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3494.08
+XFC-05224,Control,Ninguna,0,2025-09-01,60,False,6,2368.53
+XFC-02115,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3167.62
+XFC-02587,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,1776.69
+XFC-05199,Control,Ninguna,0,2025-09-01,60,True,0,698.73
+XFC-03440,Control,Ninguna,0,2025-09-01,60,False,3,2714.11
+XFC-03555,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2441.38
+XFC-00454,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2944.07
+XFC-06585,Control,Ninguna,0,2025-09-01,60,False,6,2465.23
+XFC-02813,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,546.79
+XFC-02837,Control,Ninguna,0,2025-09-01,60,False,3,1947.29
+XFC-00252,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2230.09
+XFC-06636,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,1595.07
+XFC-01023,Control,Ninguna,0,2025-09-01,60,False,2,2849.98
+XFC-07648,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2741.33
+XFC-01011,Control,Ninguna,0,2025-09-01,60,False,4,2962.67
+XFC-04650,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-06002,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1361.83
+XFC-01673,Control,Ninguna,0,2025-09-01,60,False,1,2530.02
+XFC-00626,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,1403.63
+XFC-07794,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,0,0.0
+XFC-02111,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,1870.6
+XFC-01466,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,3170.87
+XFC-07530,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3032.91
+XFC-04735,Control,Ninguna,0,2025-09-01,60,False,3,1243.36
+XFC-04267,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2563.97
+XFC-03092,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2942.1
+XFC-06973,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,2844.01
+XFC-01889,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-01609,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,1522.85
+XFC-01745,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2117.2
+XFC-00158,Control,Ninguna,0,2025-09-01,60,False,2,946.91
+XFC-02440,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,3152.38
+XFC-02200,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,1792.21
+XFC-03095,Control,Ninguna,0,2025-09-01,60,True,1,474.88
+XFC-06214,Control,Ninguna,0,2025-09-01,60,False,4,3502.44
+XFC-00504,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3310.4
+XFC-06187,Control,Ninguna,0,2025-09-01,60,False,3,1582.53
+XFC-00316,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2549.3
+XFC-00711,Control,Ninguna,0,2025-09-01,60,False,1,2564.81
+XFC-03969,Tratamiento,Envío gratis,5,2025-09-01,60,True,0,1743.85
+XFC-04175,Control,Ninguna,0,2025-09-01,60,False,5,3020.21
+XFC-03718,Control,Ninguna,0,2025-09-01,60,False,4,1835.88
+XFC-07083,Control,Ninguna,0,2025-09-01,60,False,5,2280.18
+XFC-00857,Tratamiento,Envío gratis,5,2025-09-01,60,False,6,2626.2
+XFC-03323,Control,Ninguna,0,2025-09-01,60,True,1,833.18
+XFC-05003,Control,Ninguna,0,2025-09-01,60,False,1,2191.09
+XFC-02657,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,3039.59
+XFC-00320,Control,Ninguna,0,2025-09-01,60,True,1,371.87
+XFC-00430,Control,Ninguna,0,2025-09-01,60,False,5,1410.41
+XFC-01019,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2814.54
+XFC-01427,Control,Ninguna,0,2025-09-01,60,False,7,1706.43
+XFC-07943,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,1,0.0
+XFC-03704,Control,Ninguna,0,2025-09-01,60,False,2,2425.83
+XFC-06544,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,3027.92
+XFC-02108,Control,Ninguna,0,2025-09-01,60,False,2,1686.06
+XFC-07146,Control,Ninguna,0,2025-09-01,60,False,4,2853.14
+XFC-06606,Control,Ninguna,0,2025-09-01,60,False,1,2404.68
+XFC-07531,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2168.26
+XFC-07979,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2911.31
+XFC-07945,Control,Ninguna,0,2025-09-01,60,False,2,2381.88
+XFC-01194,Control,Ninguna,0,2025-09-01,60,False,1,2416.31
+XFC-06358,Control,Ninguna,0,2025-09-01,60,True,0,70.31
+XFC-04114,Control,Ninguna,0,2025-09-01,60,False,2,1227.81
+XFC-05741,Control,Ninguna,0,2025-09-01,60,False,1,1413.68
+XFC-01841,Control,Ninguna,0,2025-09-01,60,False,3,1042.53
+XFC-02535,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2156.7
+XFC-01863,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,1833.7
+XFC-05837,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-07774,Control,Ninguna,0,2025-09-01,60,True,1,1373.98
+XFC-06700,Control,Ninguna,0,2025-09-01,60,False,2,4050.12
+XFC-03046,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,1499.41
+XFC-02629,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,1803.39
+XFC-04229,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,1405.56
+XFC-06061,Control,Ninguna,0,2025-09-01,60,False,1,2483.73
+XFC-04230,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2955.09
+XFC-01282,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2691.77
+XFC-07741,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2994.96
+XFC-07289,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,1021.81
+XFC-05503,Control,Ninguna,0,2025-09-01,60,False,3,2054.4
+XFC-04221,Control,Ninguna,0,2025-09-01,60,False,2,2153.48
+XFC-04546,Control,Ninguna,0,2025-09-01,60,False,4,2372.99
+XFC-07699,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,3646.68
+XFC-00744,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,4707.76
+XFC-05529,Control,Ninguna,0,2025-09-01,60,False,2,2365.86
+XFC-02234,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3891.18
+XFC-04505,Control,Ninguna,0,2025-09-01,60,False,5,2185.74
+XFC-06247,Control,Ninguna,0,2025-09-01,60,False,6,1638.84
+XFC-06097,Control,Ninguna,0,2025-09-01,60,False,5,4157.15
+XFC-07771,Control,Ninguna,0,2025-09-01,60,False,3,2175.64
+XFC-05278,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2056.35
+XFC-03616,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,3280.01
+XFC-04790,Control,Ninguna,0,2025-09-01,60,True,1,347.22
+XFC-07497,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-02698,Control,Ninguna,0,2025-09-01,60,False,4,2178.08
+XFC-01702,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2788.73
+XFC-00997,Control,Ninguna,0,2025-09-01,60,True,3,0.0
+XFC-04039,Control,Ninguna,0,2025-09-01,60,False,0,3389.53
+XFC-04658,Control,Ninguna,0,2025-09-01,60,False,5,2113.5
+XFC-07907,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,4316.54
+XFC-04718,Control,Ninguna,0,2025-09-01,60,False,2,3679.6
+XFC-04716,Control,Ninguna,0,2025-09-01,60,False,4,2754.24
+XFC-03483,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2387.91
+XFC-06370,Control,Ninguna,0,2025-09-01,60,False,1,3235.56
+XFC-05894,Control,Ninguna,0,2025-09-01,60,False,3,3109.55
+XFC-05147,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-01085,Control,Ninguna,0,2025-09-01,60,False,2,1948.96
+XFC-02267,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1975.72
+XFC-01923,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2347.31
+XFC-07224,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-01047,Control,Ninguna,0,2025-09-01,60,True,1,981.74
+XFC-01347,Control,Ninguna,0,2025-09-01,60,False,4,2934.45
+XFC-05923,Control,Ninguna,0,2025-09-01,60,False,2,2468.8
+XFC-01177,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,3470.84
+XFC-06283,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2365.38
+XFC-07037,Control,Ninguna,0,2025-09-01,60,False,1,2689.6
+XFC-06084,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,3019.5
+XFC-05915,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2871.09
+XFC-04839,Control,Ninguna,0,2025-09-01,60,False,1,2388.42
+XFC-01422,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2050.06
+XFC-06076,Control,Ninguna,0,2025-09-01,60,False,5,1931.64
+XFC-04150,Control,Ninguna,0,2025-09-01,60,False,1,3240.07
+XFC-05776,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,2582.18
+XFC-00909,Control,Ninguna,0,2025-09-01,60,False,7,1754.41
+XFC-02914,Control,Ninguna,0,2025-09-01,60,False,1,2135.79
+XFC-06852,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3823.47
+XFC-01973,Control,Ninguna,0,2025-09-01,60,False,2,2270.35
+XFC-06528,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3353.0
+XFC-07919,Control,Ninguna,0,2025-09-01,60,False,1,1654.83
+XFC-03734,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1969.74
+XFC-00394,Control,Ninguna,0,2025-09-01,60,False,0,3185.72
+XFC-00684,Control,Ninguna,0,2025-09-01,60,False,3,3189.46
+XFC-00231,Control,Ninguna,0,2025-09-01,60,False,4,1098.32
+XFC-07948,Control,Ninguna,0,2025-09-01,60,False,3,2535.11
+XFC-01431,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,1591.18
+XFC-00677,Control,Ninguna,0,2025-09-01,60,False,4,2455.79
+XFC-06464,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,1026.69
+XFC-02139,Control,Ninguna,0,2025-09-01,60,True,0,960.04
+XFC-06927,Control,Ninguna,0,2025-09-01,60,False,3,1999.48
+XFC-00034,Control,Ninguna,0,2025-09-01,60,False,2,1252.12
+XFC-02808,Control,Ninguna,0,2025-09-01,60,True,0,676.81
+XFC-00958,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,3244.62
+XFC-07872,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-06343,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2787.11
+XFC-01633,Control,Ninguna,0,2025-09-01,60,True,0,912.57
+XFC-07418,Control,Ninguna,0,2025-09-01,60,False,4,1453.6
+XFC-04263,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,3478.76
+XFC-02224,Control,Ninguna,0,2025-09-01,60,False,4,1884.76
+XFC-03379,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2250.08
+XFC-07160,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1373.39
+XFC-00062,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2968.04
+XFC-04571,Tratamiento,Puntos dobles,8,2025-09-01,60,True,1,0.0
+XFC-01808,Control,Ninguna,0,2025-09-01,60,False,2,3737.04
+XFC-01278,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,1522.29
+XFC-07535,Control,Ninguna,0,2025-09-01,60,False,4,1465.78
+XFC-03516,Tratamiento,Descuento 15%,15,2025-09-01,60,True,1,0.0
+XFC-00333,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,2825.65
+XFC-06073,Control,Ninguna,0,2025-09-01,60,False,1,3109.91
+XFC-02376,Control,Ninguna,0,2025-09-01,60,True,0,134.36
+XFC-07172,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,3886.57
+XFC-01262,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,3326.12
+XFC-05608,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,0.0
+XFC-05304,Control,Ninguna,0,2025-09-01,60,False,1,3104.96
+XFC-05628,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2706.47
+XFC-00737,Control,Ninguna,0,2025-09-01,60,False,2,3038.14
+XFC-06416,Control,Ninguna,0,2025-09-01,60,False,4,479.37
+XFC-06089,Control,Ninguna,0,2025-09-01,60,False,6,2714.34
+XFC-02898,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2305.54
+XFC-03245,Control,Ninguna,0,2025-09-01,60,False,1,3803.8
+XFC-05365,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,3211.75
+XFC-03289,Control,Ninguna,0,2025-09-01,60,False,3,3053.25
+XFC-06460,Control,Ninguna,0,2025-09-01,60,False,6,3609.01
+XFC-07285,Control,Ninguna,0,2025-09-01,60,False,1,3238.27
+XFC-06450,Control,Ninguna,0,2025-09-01,60,False,2,2744.03
+XFC-03300,Control,Ninguna,0,2025-09-01,60,False,5,1438.76
+XFC-02474,Control,Ninguna,0,2025-09-01,60,False,1,1895.06
+XFC-02307,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2721.22
+XFC-01375,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3199.92
+XFC-06172,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2412.73
+XFC-07742,Control,Ninguna,0,2025-09-01,60,False,1,3209.74
+XFC-07894,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1587.88
+XFC-02599,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,3380.95
+XFC-03430,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,3027.24
+XFC-02604,Control,Ninguna,0,2025-09-01,60,False,2,3333.9
+XFC-03878,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,3131.44
+XFC-07864,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-06576,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2533.68
+XFC-07118,Control,Ninguna,0,2025-09-01,60,False,1,1564.44
+XFC-01079,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2325.45
+XFC-03521,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,1670.68
+XFC-01164,Control,Ninguna,0,2025-09-01,60,False,5,1734.66
+XFC-06578,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3059.65
+XFC-03833,Control,Ninguna,0,2025-09-01,60,False,4,1620.39
+XFC-05442,Tratamiento,Envío gratis,5,2025-09-01,60,True,1,0.0
+XFC-00080,Control,Ninguna,0,2025-09-01,60,False,2,4288.18
+XFC-02586,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,3888.29
+XFC-06907,Control,Ninguna,0,2025-09-01,60,False,4,2380.89
+XFC-06817,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,999.05
+XFC-04510,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3532.84
+XFC-07166,Control,Ninguna,0,2025-09-01,60,False,3,2401.98
+XFC-05926,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2814.75
+XFC-04596,Control,Ninguna,0,2025-09-01,60,True,0,1593.72
+XFC-01791,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2103.13
+XFC-01787,Control,Ninguna,0,2025-09-01,60,False,3,1800.09
+XFC-01570,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,3606.75
+XFC-01738,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1434.08
+XFC-02252,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-04889,Control,Ninguna,0,2025-09-01,60,False,1,2759.76
+XFC-01026,Control,Ninguna,0,2025-09-01,60,False,5,2928.16
+XFC-01955,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,945.64
+XFC-03613,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3053.99
+XFC-01563,Control,Ninguna,0,2025-09-01,60,False,4,2310.84
+XFC-05778,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2284.75
+XFC-06290,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,3603.54
+XFC-07467,Control,Ninguna,0,2025-09-01,60,False,1,3424.93
+XFC-01331,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2093.47
+XFC-06763,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,4494.71
+XFC-07879,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1425.52
+XFC-05723,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2055.75
+XFC-02021,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2573.92
+XFC-00150,Control,Ninguna,0,2025-09-01,60,False,3,2339.92
+XFC-05328,Control,Ninguna,0,2025-09-01,60,False,4,2811.4
+XFC-05156,Control,Ninguna,0,2025-09-01,60,False,0,3282.43
+XFC-07786,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-01733,Control,Ninguna,0,2025-09-01,60,True,1,1421.84
+XFC-00971,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2625.09
+XFC-02339,Control,Ninguna,0,2025-09-01,60,False,4,1637.89
+XFC-01264,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2478.7
+XFC-00170,Control,Ninguna,0,2025-09-01,60,False,0,4282.11
+XFC-04551,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,4240.39
+XFC-01516,Control,Ninguna,0,2025-09-01,60,False,0,3255.28
+XFC-02860,Control,Ninguna,0,2025-09-01,60,False,2,1224.75
+XFC-01480,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2726.1
+XFC-01616,Control,Ninguna,0,2025-09-01,60,False,1,967.92
+XFC-02575,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,4057.6
+XFC-05803,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-04906,Control,Ninguna,0,2025-09-01,60,False,1,3015.15
+XFC-02580,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2528.02
+XFC-04249,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2324.33
+XFC-03439,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2357.51
+XFC-00234,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2345.3
+XFC-00354,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,1662.21
+XFC-02230,Control,Ninguna,0,2025-09-01,60,True,1,1924.53
+XFC-04634,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,1844.34
+XFC-04514,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1716.69
+XFC-02878,Control,Ninguna,0,2025-09-01,60,False,1,2427.22
+XFC-05811,Control,Ninguna,0,2025-09-01,60,False,2,1212.0
+XFC-02848,Control,Ninguna,0,2025-09-01,60,False,1,3028.47
+XFC-03275,Control,Ninguna,0,2025-09-01,60,True,0,960.41
+XFC-03827,Control,Ninguna,0,2025-09-01,60,False,5,3109.51
+XFC-04921,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3421.25
+XFC-01222,Control,Ninguna,0,2025-09-01,60,True,0,831.19
+XFC-04690,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,2786.16
+XFC-00510,Control,Ninguna,0,2025-09-01,60,False,2,3046.12
+XFC-00998,Control,Ninguna,0,2025-09-01,60,False,2,3091.27
+XFC-05565,Tratamiento,Descuento 10%,10,2025-09-01,60,False,8,1776.71
+XFC-04512,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,873.25
+XFC-07101,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,1092.07
+XFC-06926,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,3794.25
+XFC-04687,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,551.38
+XFC-06791,Control,Ninguna,0,2025-09-01,60,False,4,3210.09
+XFC-07252,Control,Ninguna,0,2025-09-01,60,False,5,1182.92
+XFC-05307,Control,Ninguna,0,2025-09-01,60,False,0,3105.04
+XFC-00539,Control,Ninguna,0,2025-09-01,60,False,1,2785.45
+XFC-07875,Control,Ninguna,0,2025-09-01,60,False,2,3731.93
+XFC-03871,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,2490.16
+XFC-05455,Control,Ninguna,0,2025-09-01,60,False,2,920.8
+XFC-03947,Control,Ninguna,0,2025-09-01,60,False,5,1786.14
+XFC-07374,Control,Ninguna,0,2025-09-01,60,False,0,2939.14
+XFC-01840,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-01704,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1108.1
+XFC-06873,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,4018.01
+XFC-04739,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,3282.7
+XFC-06675,Control,Ninguna,0,2025-09-01,60,False,5,3386.51
+XFC-07951,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2152.03
+XFC-02654,Control,Ninguna,0,2025-09-01,60,False,4,3125.76
+XFC-04951,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-03423,Control,Ninguna,0,2025-09-01,60,False,1,2735.27
+XFC-02971,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,3881.78
+XFC-04185,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2343.38
+XFC-06305,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,4306.55
+XFC-02023,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,2936.85
+XFC-07609,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2508.12
+XFC-05770,Control,Ninguna,0,2025-09-01,60,True,1,963.23
+XFC-01006,Control,Ninguna,0,2025-09-01,60,False,3,2622.27
+XFC-06077,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2628.27
+XFC-01321,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,1964.12
+XFC-05762,Control,Ninguna,0,2025-09-01,60,False,5,2504.69
+XFC-05892,Control,Ninguna,0,2025-09-01,60,False,1,2607.39
+XFC-02756,Control,Ninguna,0,2025-09-01,60,False,4,1441.25
+XFC-07459,Tratamiento,Envío gratis,5,2025-09-01,60,False,8,1802.69
+XFC-00409,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,2678.99
+XFC-01198,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2808.58
+XFC-07871,Control,Ninguna,0,2025-09-01,60,False,3,2388.35
+XFC-07711,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,583.33
+XFC-07881,Control,Ninguna,0,2025-09-01,60,False,4,1731.15
+XFC-01324,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,904.43
+XFC-01057,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,750.13
+XFC-04670,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,4170.79
+XFC-03800,Control,Ninguna,0,2025-09-01,60,False,5,3302.53
+XFC-03013,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2533.82
+XFC-01671,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2920.74
+XFC-00941,Control,Ninguna,0,2025-09-01,60,False,6,1765.19
+XFC-03306,Control,Ninguna,0,2025-09-01,60,False,3,2982.85
+XFC-07174,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2088.37
+XFC-05492,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,1330.99
+XFC-02777,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3016.08
+XFC-00577,Control,Ninguna,0,2025-09-01,60,False,2,3843.12
+XFC-03419,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3866.51
+XFC-01742,Tratamiento,Envío gratis,5,2025-09-01,60,False,6,3454.03
+XFC-01670,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-05357,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,1977.73
+XFC-02923,Control,Ninguna,0,2025-09-01,60,False,3,2820.32
+XFC-05047,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3013.48
+XFC-00178,Control,Ninguna,0,2025-09-01,60,False,0,3811.96
+XFC-07221,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3599.91
+XFC-01818,Control,Ninguna,0,2025-09-01,60,False,4,3636.88
+XFC-06621,Control,Ninguna,0,2025-09-01,60,False,3,2259.16
+XFC-01729,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-05924,Control,Ninguna,0,2025-09-01,60,False,4,3108.49
+XFC-05547,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,3560.86
+XFC-03935,Control,Ninguna,0,2025-09-01,60,False,2,2871.48
+XFC-00329,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3023.09
+XFC-02555,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,3064.4
+XFC-02125,Control,Ninguna,0,2025-09-01,60,False,1,3572.14
+XFC-05783,Control,Ninguna,0,2025-09-01,60,False,6,1070.29
+XFC-06386,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1817.8
+XFC-07342,Control,Ninguna,0,2025-09-01,60,False,5,2160.79
+XFC-02893,Control,Ninguna,0,2025-09-01,60,False,3,1955.32
+XFC-06063,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2307.2
+XFC-04418,Control,Ninguna,0,2025-09-01,60,True,0,1066.37
+XFC-03258,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2086.56
+XFC-05665,Control,Ninguna,0,2025-09-01,60,False,5,2151.54
+XFC-04002,Control,Ninguna,0,2025-09-01,60,False,4,2563.02
+XFC-07163,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2615.47
+XFC-01298,Control,Ninguna,0,2025-09-01,60,False,3,4048.75
+XFC-04533,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,913.68
+XFC-04519,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3366.75
+XFC-05191,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2195.54
+XFC-06660,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2219.12
+XFC-07790,Control,Ninguna,0,2025-09-01,60,False,5,4622.89
+XFC-07642,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3432.6
+XFC-00182,Control,Ninguna,0,2025-09-01,60,False,4,4090.14
+XFC-04297,Control,Ninguna,0,2025-09-01,60,False,4,1173.78
+XFC-04536,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,1609.79
+XFC-07443,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2442.02
+XFC-01296,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2277.53
+XFC-04961,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,2535.45
+XFC-05827,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-00743,Control,Ninguna,0,2025-09-01,60,False,1,1619.58
+XFC-02209,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1370.8
+XFC-06790,Control,Ninguna,0,2025-09-01,60,False,3,1814.29
+XFC-01184,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,1930.49
+XFC-07988,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,3659.66
+XFC-03397,Control,Ninguna,0,2025-09-01,60,False,5,2407.63
+XFC-03124,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,0.0
+XFC-00042,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2505.59
+XFC-06426,Control,Ninguna,0,2025-09-01,60,False,5,1997.23
+XFC-04367,Tratamiento,Envío gratis,5,2025-09-01,60,True,0,1561.58
+XFC-03911,Control,Ninguna,0,2025-09-01,60,False,1,2991.3
+XFC-06858,Control,Ninguna,0,2025-09-01,60,True,0,188.15
+XFC-00218,Control,Ninguna,0,2025-09-01,60,False,1,1925.49
+XFC-00186,Control,Ninguna,0,2025-09-01,60,False,3,1988.33
+XFC-03140,Control,Ninguna,0,2025-09-01,60,False,1,1960.63
+XFC-05465,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,2509.93
+XFC-03568,Control,Ninguna,0,2025-09-01,60,False,3,1556.04
+XFC-06986,Control,Ninguna,0,2025-09-01,60,False,3,3651.72
+XFC-04439,Control,Ninguna,0,2025-09-01,60,False,6,3064.5
+XFC-00713,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1748.61
+XFC-01415,Control,Ninguna,0,2025-09-01,60,False,6,3665.73
+XFC-02803,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,1026.99
+XFC-00088,Control,Ninguna,0,2025-09-01,60,False,3,2682.02
+XFC-05881,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3633.68
+XFC-06563,Control,Ninguna,0,2025-09-01,60,True,1,672.1
+XFC-07018,Control,Ninguna,0,2025-09-01,60,False,4,1258.54
+XFC-06607,Control,Ninguna,0,2025-09-01,60,False,2,2622.41
+XFC-01028,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,892.96
+XFC-02551,Control,Ninguna,0,2025-09-01,60,False,1,2457.44
+XFC-02113,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1343.3
+XFC-00258,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,995.92
+XFC-07793,Control,Ninguna,0,2025-09-01,60,False,4,1541.75
+XFC-03247,Control,Ninguna,0,2025-09-01,60,False,5,2898.37
+XFC-07687,Control,Ninguna,0,2025-09-01,60,False,3,2295.28
+XFC-04672,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,1111.53
+XFC-03783,Control,Ninguna,0,2025-09-01,60,False,2,2623.6
+XFC-00707,Control,Ninguna,0,2025-09-01,60,False,2,2384.77
+XFC-02454,Control,Ninguna,0,2025-09-01,60,False,4,3206.14
+XFC-01657,Control,Ninguna,0,2025-09-01,60,False,3,2248.85
+XFC-04846,Tratamiento,Envío gratis,5,2025-09-01,60,True,1,0.0
+XFC-05868,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2889.66
+XFC-03476,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,3209.03
+XFC-00544,Control,Ninguna,0,2025-09-01,60,True,1,689.86
+XFC-02352,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,2957.67
+XFC-02796,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2769.63
+XFC-04696,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2744.88
+XFC-05445,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3440.48
+XFC-07040,Control,Ninguna,0,2025-09-01,60,False,2,2214.38
+XFC-02288,Tratamiento,Descuento 15%,15,2025-09-01,60,True,1,158.02
+XFC-01054,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1532.3
+XFC-05563,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,3940.33
+XFC-06054,Control,Ninguna,0,2025-09-01,60,False,2,4289.32
+XFC-00382,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1678.8
+XFC-00057,Control,Ninguna,0,2025-09-01,60,False,6,1308.73
+XFC-00070,Control,Ninguna,0,2025-09-01,60,False,3,2431.47
+XFC-03208,Control,Ninguna,0,2025-09-01,60,False,1,2047.43
+XFC-02752,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,1254.34
+XFC-01430,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2700.57
+XFC-01546,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,1919.19
+XFC-01128,Control,Ninguna,0,2025-09-01,60,False,5,3325.1
+XFC-03321,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2303.71
+XFC-06612,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3045.23
+XFC-02488,Control,Ninguna,0,2025-09-01,60,False,2,1428.43
+XFC-07783,Control,Ninguna,0,2025-09-01,60,False,5,3397.99
+XFC-03008,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,3767.95
+XFC-00446,Control,Ninguna,0,2025-09-01,60,False,2,2626.24
+XFC-07565,Control,Ninguna,0,2025-09-01,60,False,5,2555.33
+XFC-06512,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2390.83
+XFC-04882,Control,Ninguna,0,2025-09-01,60,True,0,1202.83
+XFC-00801,Control,Ninguna,0,2025-09-01,60,True,0,107.25
+XFC-03559,Control,Ninguna,0,2025-09-01,60,False,3,2910.43
+XFC-03207,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,1865.82
+XFC-06665,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1428.69
+XFC-07588,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,1268.92
+XFC-02346,Control,Ninguna,0,2025-09-01,60,False,3,2645.61
+XFC-07399,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-06475,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2021.63
+XFC-00020,Control,Ninguna,0,2025-09-01,60,False,5,3209.71
+XFC-07384,Control,Ninguna,0,2025-09-01,60,False,1,3212.21
+XFC-05334,Control,Ninguna,0,2025-09-01,60,False,4,2442.12
+XFC-06533,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2341.76
+XFC-01512,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3686.16
+XFC-00829,Control,Ninguna,0,2025-09-01,60,False,4,1814.09
+XFC-07432,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,1367.13
+XFC-07154,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,2563.9
+XFC-04673,Control,Ninguna,0,2025-09-01,60,False,1,1676.04
+XFC-06537,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3005.33
+XFC-00477,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,1251.9
+XFC-05669,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1607.18
+XFC-06574,Control,Ninguna,0,2025-09-01,60,True,1,1360.73
+XFC-02677,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,1384.28
+XFC-00469,Control,Ninguna,0,2025-09-01,60,False,3,2320.29
+XFC-07417,Control,Ninguna,0,2025-09-01,60,False,2,3944.44
+XFC-00309,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2815.83
+XFC-07429,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2067.8
+XFC-02926,Control,Ninguna,0,2025-09-01,60,False,0,3039.39
+XFC-01651,Tratamiento,Puntos dobles,8,2025-09-01,60,False,9,1660.39
+XFC-04086,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,661.78
+XFC-05326,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2187.51
+XFC-05429,Control,Ninguna,0,2025-09-01,60,False,2,1439.29
+XFC-01967,Control,Ninguna,0,2025-09-01,60,False,3,4142.6
+XFC-05846,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2544.28
+XFC-05775,Control,Ninguna,0,2025-09-01,60,False,2,2094.76
+XFC-07283,Control,Ninguna,0,2025-09-01,60,True,0,642.5
+XFC-06045,Control,Ninguna,0,2025-09-01,60,False,5,2593.06
+XFC-04627,Control,Ninguna,0,2025-09-01,60,False,1,2955.8
+XFC-00081,Control,Ninguna,0,2025-09-01,60,False,5,2075.45
+XFC-02133,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2866.94
+XFC-00642,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1537.69
+XFC-02895,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2639.02
+XFC-02437,Control,Ninguna,0,2025-09-01,60,False,1,2669.65
+XFC-03890,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2228.22
+XFC-03667,Control,Ninguna,0,2025-09-01,60,False,2,4048.04
+XFC-01510,Control,Ninguna,0,2025-09-01,60,False,3,2536.69
+XFC-07727,Tratamiento,Puntos dobles,8,2025-09-01,60,False,6,3946.04
+XFC-01169,Control,Ninguna,0,2025-09-01,60,False,2,1989.87
+XFC-04199,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-01406,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2398.19
+XFC-04732,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,1985.09
+XFC-02222,Control,Ninguna,0,2025-09-01,60,False,2,2740.79
+XFC-02974,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2956.04
+XFC-06023,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,408.79
+XFC-04928,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2263.21
+XFC-06684,Control,Ninguna,0,2025-09-01,60,True,0,664.83
+XFC-05153,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,1797.75
+XFC-00119,Control,Ninguna,0,2025-09-01,60,False,6,3202.43
+XFC-03146,Control,Ninguna,0,2025-09-01,60,False,4,3186.18
+XFC-03026,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2691.37
+XFC-04669,Control,Ninguna,0,2025-09-01,60,True,0,1528.71
+XFC-05934,Control,Ninguna,0,2025-09-01,60,False,2,2550.3
+XFC-04621,Control,Ninguna,0,2025-09-01,60,False,3,3589.31
+XFC-04111,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2861.76
+XFC-04936,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1469.03
+XFC-04268,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1528.48
+XFC-04527,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2649.32
+XFC-03785,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2148.22
+XFC-07829,Control,Ninguna,0,2025-09-01,60,False,4,3356.45
+XFC-07688,Control,Ninguna,0,2025-09-01,60,False,3,2381.34
+XFC-01730,Control,Ninguna,0,2025-09-01,60,False,2,2132.81
+XFC-02665,Control,Ninguna,0,2025-09-01,60,False,4,2905.08
+XFC-02099,Control,Ninguna,0,2025-09-01,60,False,3,1433.16
+XFC-02885,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,3220.26
+XFC-02992,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,3644.12
+XFC-06315,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,1645.55
+XFC-07599,Control,Ninguna,0,2025-09-01,60,False,4,2004.58
+XFC-02573,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,1673.81
+XFC-07758,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-01058,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,1825.05
+XFC-03806,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,1763.65
+XFC-05834,Tratamiento,Descuento 10%,10,2025-09-01,60,True,1,0.0
+XFC-05635,Control,Ninguna,0,2025-09-01,60,False,4,2363.26
+XFC-06246,Control,Ninguna,0,2025-09-01,60,True,0,776.72
+XFC-07900,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2740.4
+XFC-05872,Control,Ninguna,0,2025-09-01,60,False,1,1492.44
+XFC-03313,Control,Ninguna,0,2025-09-01,60,False,4,2737.9
+XFC-02472,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,3010.86
+XFC-05081,Control,Ninguna,0,2025-09-01,60,False,1,3725.83
+XFC-04005,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1350.19
+XFC-03986,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,695.46
+XFC-07987,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1791.03
+XFC-06401,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-07480,Control,Ninguna,0,2025-09-01,60,False,6,2426.12
+XFC-00774,Control,Ninguna,0,2025-09-01,60,False,1,1509.65
+XFC-07993,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3007.52
+XFC-06776,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2167.05
+XFC-07249,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3118.82
+XFC-03902,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2926.03
+XFC-00051,Control,Ninguna,0,2025-09-01,60,False,3,2415.71
+XFC-05500,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,1491.42
+XFC-00734,Control,Ninguna,0,2025-09-01,60,False,3,2636.92
+XFC-00246,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2155.66
+XFC-05851,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2115.8
+XFC-00180,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,2430.14
+XFC-07033,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,3425.6
+XFC-00018,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2798.52
+XFC-02183,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-05931,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,3031.26
+XFC-03928,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,1,0.0
+XFC-07809,Control,Ninguna,0,2025-09-01,60,False,6,1460.73
+XFC-06217,Control,Ninguna,0,2025-09-01,60,True,0,417.78
+XFC-04271,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,1393.75
+XFC-07936,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2594.27
+XFC-04609,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,3684.23
+XFC-02940,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-04337,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2329.24
+XFC-03659,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2669.26
+XFC-01374,Control,Ninguna,0,2025-09-01,60,False,1,2945.49
+XFC-01088,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,7,2848.62
+XFC-00322,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2429.05
+XFC-02128,Control,Ninguna,0,2025-09-01,60,True,0,792.82
+XFC-04661,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,1184.04
+XFC-01488,Control,Ninguna,0,2025-09-01,60,False,5,2630.49
+XFC-04369,Control,Ninguna,0,2025-09-01,60,False,3,2680.2
+XFC-04872,Tratamiento,Descuento 10%,10,2025-09-01,60,True,1,209.87
+XFC-05096,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,3175.15
+XFC-06826,Control,Ninguna,0,2025-09-01,60,False,2,1514.05
+XFC-00966,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,2567.38
+XFC-07874,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-07136,Control,Ninguna,0,2025-09-01,60,False,0,2149.07
+XFC-06038,Control,Ninguna,0,2025-09-01,60,False,3,3036.41
+XFC-06072,Control,Ninguna,0,2025-09-01,60,False,3,1667.7
+XFC-01666,Control,Ninguna,0,2025-09-01,60,True,0,710.12
+XFC-04520,Tratamiento,Envío gratis,5,2025-09-01,60,True,0,1155.99
+XFC-01794,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3491.84
+XFC-05039,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2639.43
+XFC-05474,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,3253.53
+XFC-04032,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2173.64
+XFC-04317,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,7,1803.88
+XFC-07731,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1127.31
+XFC-06373,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2999.01
+XFC-05650,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-02182,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,1908.81
+XFC-05787,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,0,0.0
+XFC-07899,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,0,0.0
+XFC-04797,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-04450,Control,Ninguna,0,2025-09-01,60,False,8,3205.29
+XFC-05822,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,2572.2
+XFC-05401,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,3990.4
+XFC-02523,Tratamiento,Descuento 15%,15,2025-09-01,60,False,7,1874.43
+XFC-05254,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,259.26
+XFC-05138,Control,Ninguna,0,2025-09-01,60,False,6,2273.24
+XFC-04025,Control,Ninguna,0,2025-09-01,60,False,4,1770.76
+XFC-01173,Control,Ninguna,0,2025-09-01,60,False,3,686.07
+XFC-06419,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,3057.85
+XFC-03459,Control,Ninguna,0,2025-09-01,60,False,1,0.0
+XFC-06671,Control,Ninguna,0,2025-09-01,60,False,3,3608.18
+XFC-02938,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2421.14
+XFC-00436,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,2295.84
+XFC-03514,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3554.44
+XFC-01490,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-03471,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,4501.37
+XFC-04929,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-05663,Control,Ninguna,0,2025-09-01,60,True,1,371.22
+XFC-01558,Control,Ninguna,0,2025-09-01,60,False,3,2160.2
+XFC-00995,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2322.65
+XFC-00859,Control,Ninguna,0,2025-09-01,60,False,2,0.0
+XFC-02759,Control,Ninguna,0,2025-09-01,60,True,1,98.5
+XFC-01534,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2791.89
+XFC-04018,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-03348,Control,Ninguna,0,2025-09-01,60,False,5,2415.39
+XFC-03232,Control,Ninguna,0,2025-09-01,60,False,6,2070.98
+XFC-05104,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2898.01
+XFC-06762,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2001.76
+XFC-05495,Tratamiento,Puntos dobles,8,2025-09-01,60,True,1,0.0
+XFC-07504,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2950.77
+XFC-03438,Control,Ninguna,0,2025-09-01,60,False,2,2084.58
+XFC-00487,Control,Ninguna,0,2025-09-01,60,False,2,2575.46
+XFC-03096,Control,Ninguna,0,2025-09-01,60,False,4,3078.89
+XFC-00200,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,3093.02
+XFC-06276,Control,Ninguna,0,2025-09-01,60,False,7,1266.68
+XFC-02058,Control,Ninguna,0,2025-09-01,60,True,0,865.58
+XFC-05636,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3235.87
+XFC-07817,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,2037.37
+XFC-02459,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-00983,Control,Ninguna,0,2025-09-01,60,False,0,2720.98
+XFC-07665,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,3405.49
+XFC-03435,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,3048.59
+XFC-07561,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,2516.13
+XFC-02593,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2095.69
+XFC-05472,Control,Ninguna,0,2025-09-01,60,False,5,1817.14
+XFC-05163,Control,Ninguna,0,2025-09-01,60,False,4,2928.09
+XFC-04356,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,890.07
+XFC-05082,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2619.65
+XFC-06536,Tratamiento,Descuento 10%,10,2025-09-01,60,True,1,0.0
+XFC-06429,Control,Ninguna,0,2025-09-01,60,True,1,966.16
+XFC-02227,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2770.81
+XFC-04081,Control,Ninguna,0,2025-09-01,60,True,0,675.32
+XFC-04978,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3091.79
+XFC-01502,Control,Ninguna,0,2025-09-01,60,False,3,2635.68
+XFC-00712,Control,Ninguna,0,2025-09-01,60,True,0,695.75
+XFC-00355,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,1596.81
+XFC-02797,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,3215.95
+XFC-04060,Control,Ninguna,0,2025-09-01,60,False,3,3536.15
+XFC-00049,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2374.29
+XFC-03033,Control,Ninguna,0,2025-09-01,60,False,2,1972.46
+XFC-00643,Control,Ninguna,0,2025-09-01,60,False,4,2289.51
+XFC-04127,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3490.27
+XFC-06799,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,1310.34
+XFC-00177,Control,Ninguna,0,2025-09-01,60,False,2,2868.2
+XFC-01872,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-02317,Control,Ninguna,0,2025-09-01,60,False,3,2890.9
+XFC-00787,Control,Ninguna,0,2025-09-01,60,False,4,2806.76
+XFC-04794,Control,Ninguna,0,2025-09-01,60,False,1,1626.02
+XFC-03255,Control,Ninguna,0,2025-09-01,60,True,0,640.56
+XFC-07489,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2743.64
+XFC-01804,Control,Ninguna,0,2025-09-01,60,False,4,2104.44
+XFC-04197,Control,Ninguna,0,2025-09-01,60,False,2,2010.26
+XFC-04217,Control,Ninguna,0,2025-09-01,60,True,0,1391.41
+XFC-00933,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,3711.36
+XFC-00092,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,0.0
+XFC-01303,Control,Ninguna,0,2025-09-01,60,False,1,3315.32
+XFC-02064,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3877.42
+XFC-01401,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2359.87
+XFC-05863,Control,Ninguna,0,2025-09-01,60,False,4,2790.67
+XFC-07682,Control,Ninguna,0,2025-09-01,60,False,2,2979.52
+XFC-05839,Control,Ninguna,0,2025-09-01,60,False,5,1163.72
+XFC-00531,Control,Ninguna,0,2025-09-01,60,False,2,2904.44
+XFC-03572,Control,Ninguna,0,2025-09-01,60,False,4,2017.4
+XFC-06553,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,3095.57
+XFC-04954,Control,Ninguna,0,2025-09-01,60,False,2,1967.5
+XFC-01941,Control,Ninguna,0,2025-09-01,60,False,2,3629.71
+XFC-03200,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-05412,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,1806.83
+XFC-03993,Control,Ninguna,0,2025-09-01,60,False,2,2686.72
+XFC-00107,Control,Ninguna,0,2025-09-01,60,True,0,395.78
+XFC-05687,Control,Ninguna,0,2025-09-01,60,False,1,3571.88
+XFC-03593,Control,Ninguna,0,2025-09-01,60,False,2,1437.36
+XFC-02919,Control,Ninguna,0,2025-09-01,60,False,1,983.12
+XFC-05754,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,137.22
+XFC-03405,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2265.58
+XFC-00132,Control,Ninguna,0,2025-09-01,60,False,3,1729.11
+XFC-06142,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2527.46
+XFC-01727,Control,Ninguna,0,2025-09-01,60,False,4,2424.36
+XFC-07300,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,3993.51
+XFC-03133,Control,Ninguna,0,2025-09-01,60,True,2,264.2
+XFC-06271,Control,Ninguna,0,2025-09-01,60,False,4,2872.14
+XFC-04490,Control,Ninguna,0,2025-09-01,60,False,2,1630.48
+XFC-03127,Control,Ninguna,0,2025-09-01,60,False,4,3257.97
+XFC-06188,Control,Ninguna,0,2025-09-01,60,False,2,1541.04
+XFC-05186,Tratamiento,Puntos dobles,8,2025-09-01,60,False,8,3587.9
+XFC-07222,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,1,1059.4
+XFC-02419,Control,Ninguna,0,2025-09-01,60,False,3,2844.35
+XFC-01618,Control,Ninguna,0,2025-09-01,60,True,0,724.17
+XFC-01413,Control,Ninguna,0,2025-09-01,60,False,6,1149.95
+XFC-05461,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2552.2
+XFC-07464,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2252.78
+XFC-07847,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1863.81
+XFC-05232,Control,Ninguna,0,2025-09-01,60,False,2,1908.07
+XFC-02723,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2263.5
+XFC-00695,Control,Ninguna,0,2025-09-01,60,False,5,2513.18
+XFC-05963,Control,Ninguna,0,2025-09-01,60,False,5,1872.65
+XFC-02489,Control,Ninguna,0,2025-09-01,60,False,3,2503.66
+XFC-05509,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,758.24
+XFC-01104,Control,Ninguna,0,2025-09-01,60,False,3,1212.31
+XFC-00168,Control,Ninguna,0,2025-09-01,60,True,0,1521.5
+XFC-00094,Control,Ninguna,0,2025-09-01,60,False,1,1680.47
+XFC-00368,Control,Ninguna,0,2025-09-01,60,False,3,2410.89
+XFC-03353,Control,Ninguna,0,2025-09-01,60,False,3,2991.02
+XFC-06688,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,3467.16
+XFC-06466,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2448.54
+XFC-07355,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,1061.61
+XFC-00836,Tratamiento,Puntos dobles,8,2025-09-01,60,False,0,2726.21
+XFC-05543,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-06166,Control,Ninguna,0,2025-09-01,60,False,1,2455.02
+XFC-06855,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,1988.35
+XFC-03334,Control,Ninguna,0,2025-09-01,60,False,2,2698.55
+XFC-05922,Control,Ninguna,0,2025-09-01,60,True,0,71.75
+XFC-06456,Control,Ninguna,0,2025-09-01,60,True,0,298.23
+XFC-04754,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,484.62
+XFC-06850,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2224.63
+XFC-07050,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-05248,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2621.39
+XFC-07424,Control,Ninguna,0,2025-09-01,60,True,0,439.89
+XFC-01881,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,3665.39
+XFC-05196,Control,Ninguna,0,2025-09-01,60,False,2,2115.22
+XFC-02707,Control,Ninguna,0,2025-09-01,60,True,0,632.49
+XFC-05549,Control,Ninguna,0,2025-09-01,60,False,1,2124.44
+XFC-04657,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,3617.34
+XFC-02421,Tratamiento,Envío gratis,5,2025-09-01,60,False,6,1825.62
+XFC-05883,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,1973.44
+XFC-02620,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2402.58
+XFC-04405,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1907.65
+XFC-01916,Tratamiento,Envío gratis,5,2025-09-01,60,False,6,2426.43
+XFC-06632,Control,Ninguna,0,2025-09-01,60,False,4,3170.27
+XFC-04451,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,1414.62
+XFC-05267,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3681.77
+XFC-05441,Control,Ninguna,0,2025-09-01,60,True,0,1292.21
+XFC-01731,Tratamiento,Descuento 15%,15,2025-09-01,60,False,8,2031.19
+XFC-00512,Tratamiento,Descuento 10%,10,2025-09-01,60,True,1,0.0
+XFC-00790,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,3511.02
+XFC-06162,Control,Ninguna,0,2025-09-01,60,False,1,2369.72
+XFC-07768,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1309.28
+XFC-07982,Control,Ninguna,0,2025-09-01,60,False,2,1975.64
+XFC-01917,Control,Ninguna,0,2025-09-01,60,False,6,1296.26
+XFC-01644,Control,Ninguna,0,2025-09-01,60,True,1,1313.6
+XFC-07590,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2083.51
+XFC-02949,Control,Ninguna,0,2025-09-01,60,False,4,3085.91
+XFC-04196,Control,Ninguna,0,2025-09-01,60,False,0,2316.63
+XFC-06886,Tratamiento,Descuento 15%,15,2025-09-01,60,True,1,0.0
+XFC-02765,Control,Ninguna,0,2025-09-01,60,False,2,1908.3
+XFC-06662,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2516.0
+XFC-02645,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1933.48
+XFC-06060,Control,Ninguna,0,2025-09-01,60,False,2,1775.06
+XFC-01560,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2254.03
+XFC-05286,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,2711.01
+XFC-03246,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3574.61
+XFC-04971,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2704.38
+XFC-07051,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2314.92
+XFC-06004,Control,Ninguna,0,2025-09-01,60,False,5,3482.31
+XFC-05122,Tratamiento,Descuento 15%,15,2025-09-01,60,False,0,3055.64
+XFC-03817,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,4578.33
+XFC-05818,Control,Ninguna,0,2025-09-01,60,False,3,2941.62
+XFC-02693,Control,Ninguna,0,2025-09-01,60,False,2,2630.85
+XFC-06885,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2500.87
+XFC-05817,Control,Ninguna,0,2025-09-01,60,False,3,1456.17
+XFC-04363,Tratamiento,Descuento 15%,15,2025-09-01,60,False,7,3329.74
+XFC-06772,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,2280.42
+XFC-07811,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,1504.8
+XFC-06410,Control,Ninguna,0,2025-09-01,60,False,1,1664.26
+XFC-05675,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2565.24
+XFC-01884,Control,Ninguna,0,2025-09-01,60,False,4,3532.79
+XFC-00074,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,3663.36
+XFC-03492,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2266.29
+XFC-01260,Control,Ninguna,0,2025-09-01,60,False,3,2661.06
+XFC-01336,Control,Ninguna,0,2025-09-01,60,False,3,2622.92
+XFC-06345,Control,Ninguna,0,2025-09-01,60,False,1,2703.61
+XFC-04499,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,3183.05
+XFC-02514,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-07351,Control,Ninguna,0,2025-09-01,60,True,2,0.0
+XFC-03406,Control,Ninguna,0,2025-09-01,60,False,5,926.36
+XFC-05618,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,3823.7
+XFC-02499,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3652.34
+XFC-01624,Control,Ninguna,0,2025-09-01,60,False,2,1823.45
+XFC-02305,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2728.29
+XFC-03551,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-01418,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2789.39
+XFC-00032,Control,Ninguna,0,2025-09-01,60,False,3,3955.88
+XFC-02944,Control,Ninguna,0,2025-09-01,60,True,0,1451.34
+XFC-03078,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2631.59
+XFC-06324,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2005.49
+XFC-00169,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,7,1635.89
+XFC-06100,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,1424.64
+XFC-06774,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2553.11
+XFC-05611,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,1583.19
+XFC-07502,Control,Ninguna,0,2025-09-01,60,False,4,3553.34
+XFC-01927,Control,Ninguna,0,2025-09-01,60,False,4,2666.66
+XFC-02089,Control,Ninguna,0,2025-09-01,60,False,3,1226.41
+XFC-06554,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1429.1
+XFC-02496,Control,Ninguna,0,2025-09-01,60,False,1,3016.64
+XFC-05988,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2607.61
+XFC-03296,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,3084.05
+XFC-01403,Control,Ninguna,0,2025-09-01,60,False,2,2223.69
+XFC-04324,Control,Ninguna,0,2025-09-01,60,False,4,2147.3
+XFC-04711,Control,Ninguna,0,2025-09-01,60,False,3,2675.85
+XFC-01508,Control,Ninguna,0,2025-09-01,60,False,3,3655.41
+XFC-00027,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-04751,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,3200.76
+XFC-07175,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2522.7
+XFC-02407,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,1774.46
+XFC-02070,Control,Ninguna,0,2025-09-01,60,False,3,1563.28
+XFC-03943,Tratamiento,Envío gratis,5,2025-09-01,60,True,0,0.0
+XFC-02192,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2334.73
+XFC-00501,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,4005.9
+XFC-06310,Control,Ninguna,0,2025-09-01,60,False,0,1522.39
+XFC-00438,Control,Ninguna,0,2025-09-01,60,False,3,1602.73
+XFC-04984,Control,Ninguna,0,2025-09-01,60,False,4,2647.18
+XFC-01421,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,3155.66
+XFC-03858,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3136.25
+XFC-07940,Control,Ninguna,0,2025-09-01,60,False,2,1504.73
+XFC-01979,Control,Ninguna,0,2025-09-01,60,False,2,3259.3
+XFC-05993,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2726.73
+XFC-02524,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2976.79
+XFC-06211,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2483.23
+XFC-05717,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2327.75
+XFC-06265,Control,Ninguna,0,2025-09-01,60,False,4,1940.93
+XFC-03818,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,2304.49
+XFC-01181,Control,Ninguna,0,2025-09-01,60,False,1,2066.28
+XFC-03356,Control,Ninguna,0,2025-09-01,60,False,4,2424.88
+XFC-02955,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,1889.28
+XFC-07733,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2791.55
+XFC-05518,Control,Ninguna,0,2025-09-01,60,True,2,1138.44
+XFC-07640,Control,Ninguna,0,2025-09-01,60,False,5,3079.92
+XFC-05888,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2293.0
+XFC-01759,Control,Ninguna,0,2025-09-01,60,False,4,3349.76
+XFC-00535,Control,Ninguna,0,2025-09-01,60,False,2,2744.14
+XFC-03571,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2633.83
+XFC-00586,Control,Ninguna,0,2025-09-01,60,False,6,2110.57
+XFC-06192,Tratamiento,Descuento 15%,15,2025-09-01,60,False,0,3482.25
+XFC-04553,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,3202.38
+XFC-01204,Control,Ninguna,0,2025-09-01,60,False,2,2252.44
+XFC-01607,Control,Ninguna,0,2025-09-01,60,False,0,2967.59
+XFC-06640,Control,Ninguna,0,2025-09-01,60,False,2,2624.92
+XFC-03304,Control,Ninguna,0,2025-09-01,60,False,3,898.35
+XFC-00492,Control,Ninguna,0,2025-09-01,60,False,1,2602.04
+XFC-05181,Control,Ninguna,0,2025-09-01,60,False,3,2615.6
+XFC-03525,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1758.05
+XFC-03461,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2739.78
+XFC-06050,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1003.21
+XFC-07250,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2850.6
+XFC-06754,Control,Ninguna,0,2025-09-01,60,False,3,2859.54
+XFC-00853,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2685.46
+XFC-07519,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,1,331.19
+XFC-05210,Control,Ninguna,0,2025-09-01,60,False,2,1220.49
+XFC-02095,Control,Ninguna,0,2025-09-01,60,True,1,1819.39
+XFC-02532,Control,Ninguna,0,2025-09-01,60,True,1,116.13
+XFC-05479,Control,Ninguna,0,2025-09-01,60,False,1,2847.59
+XFC-00398,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,3189.96
+XFC-06056,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2813.83
+XFC-01650,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-00402,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,4398.07
+XFC-07613,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-07908,Tratamiento,Descuento 10%,10,2025-09-01,60,True,2,637.59
+XFC-07696,Control,Ninguna,0,2025-09-01,60,False,2,3021.13
+XFC-03545,Control,Ninguna,0,2025-09-01,60,False,2,2716.55
+XFC-05633,Control,Ninguna,0,2025-09-01,60,False,5,1780.84
+XFC-05904,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2585.1
+XFC-05935,Control,Ninguna,0,2025-09-01,60,False,6,3123.6
+XFC-04665,Control,Ninguna,0,2025-09-01,60,False,7,1806.7
+XFC-00574,Control,Ninguna,0,2025-09-01,60,False,2,2488.01
+XFC-02329,Control,Ninguna,0,2025-09-01,60,False,0,2324.38
+XFC-02956,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3243.43
+XFC-02405,Control,Ninguna,0,2025-09-01,60,False,4,3209.11
+XFC-07227,Control,Ninguna,0,2025-09-01,60,True,0,647.58
+XFC-00536,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1711.28
+XFC-03575,Control,Ninguna,0,2025-09-01,60,False,1,2238.13
+XFC-02374,Control,Ninguna,0,2025-09-01,60,False,4,1630.95
+XFC-07475,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2553.72
+XFC-03661,Control,Ninguna,0,2025-09-01,60,False,2,2180.81
+XFC-03384,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,2905.54
+XFC-05861,Control,Ninguna,0,2025-09-01,60,False,1,2168.31
+XFC-00474,Control,Ninguna,0,2025-09-01,60,False,2,3664.22
+XFC-05552,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2846.77
+XFC-06049,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-00882,Control,Ninguna,0,2025-09-01,60,False,3,4028.55
+XFC-04849,Control,Ninguna,0,2025-09-01,60,False,4,2817.95
+XFC-03347,Control,Ninguna,0,2025-09-01,60,True,1,290.52
+XFC-04757,Control,Ninguna,0,2025-09-01,60,False,4,3697.86
+XFC-02747,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2957.97
+XFC-00470,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,4040.4
+XFC-02603,Control,Ninguna,0,2025-09-01,60,False,5,2155.2
+XFC-07069,Tratamiento,Puntos dobles,8,2025-09-01,60,True,1,0.0
+XFC-00248,Control,Ninguna,0,2025-09-01,60,False,3,2846.2
+XFC-02277,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2055.52
+XFC-06034,Control,Ninguna,0,2025-09-01,60,False,2,1478.0
+XFC-00866,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3022.06
+XFC-00762,Control,Ninguna,0,2025-09-01,60,False,3,3293.03
+XFC-06366,Control,Ninguna,0,2025-09-01,60,False,6,4012.6
+XFC-04463,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-02541,Control,Ninguna,0,2025-09-01,60,False,4,2090.37
+XFC-01288,Control,Ninguna,0,2025-09-01,60,False,3,3117.59
+XFC-04035,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3140.75
+XFC-00426,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3153.13
+XFC-05739,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,0.0
+XFC-03194,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3133.2
+XFC-05831,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-00229,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,1748.21
+XFC-04516,Control,Ninguna,0,2025-09-01,60,False,3,3012.55
+XFC-07883,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2312.26
+XFC-00694,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3730.02
+XFC-01042,Control,Ninguna,0,2025-09-01,60,False,4,2734.22
+XFC-03097,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2700.67
+XFC-03051,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,8,2109.33
+XFC-01596,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,2071.0
+XFC-02550,Control,Ninguna,0,2025-09-01,60,False,3,2628.47
+XFC-07618,Control,Ninguna,0,2025-09-01,60,False,5,2865.92
+XFC-07994,Control,Ninguna,0,2025-09-01,60,False,3,2146.67
+XFC-06062,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,2759.89
+XFC-05126,Control,Ninguna,0,2025-09-01,60,False,2,4123.13
+XFC-01129,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2599.22
+XFC-05494,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2665.78
+XFC-03474,Control,Ninguna,0,2025-09-01,60,False,2,3637.0
+XFC-05133,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1229.25
+XFC-00059,Control,Ninguna,0,2025-09-01,60,False,1,4126.03
+XFC-05753,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,1472.01
+XFC-04314,Control,Ninguna,0,2025-09-01,60,False,3,1983.72
+XFC-01200,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2183.06
+XFC-03689,Control,Ninguna,0,2025-09-01,60,False,0,2089.16
+XFC-04895,Control,Ninguna,0,2025-09-01,60,False,0,3425.53
+XFC-00097,Tratamiento,Descuento 10%,10,2025-09-01,60,True,1,101.81
+XFC-05730,Control,Ninguna,0,2025-09-01,60,False,5,2789.61
+XFC-00961,Control,Ninguna,0,2025-09-01,60,False,2,2258.65
+XFC-01635,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-07780,Control,Ninguna,0,2025-09-01,60,False,2,2096.9
+XFC-00878,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,3061.3
+XFC-06657,Control,Ninguna,0,2025-09-01,60,False,3,1375.04
+XFC-00157,Control,Ninguna,0,2025-09-01,60,False,3,2913.9
+XFC-02088,Control,Ninguna,0,2025-09-01,60,False,3,2143.4
+XFC-05959,Control,Ninguna,0,2025-09-01,60,False,2,2700.22
+XFC-00612,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2105.02
+XFC-05930,Control,Ninguna,0,2025-09-01,60,False,1,1862.96
+XFC-01980,Tratamiento,Descuento 10%,10,2025-09-01,60,True,1,0.0
+XFC-01189,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,772.1
+XFC-04234,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2243.74
+XFC-00448,Control,Ninguna,0,2025-09-01,60,False,4,664.73
+XFC-07115,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1850.18
+XFC-02358,Control,Ninguna,0,2025-09-01,60,False,2,2085.89
+XFC-04120,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,1306.09
+XFC-00593,Tratamiento,Envío gratis,5,2025-09-01,60,False,6,2055.35
+XFC-07931,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,1990.67
+XFC-07955,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,9,3552.65
+XFC-07183,Tratamiento,Envío gratis,5,2025-09-01,60,True,0,520.56
+XFC-06551,Control,Ninguna,0,2025-09-01,60,True,0,350.34
+XFC-04307,Control,Ninguna,0,2025-09-01,60,False,3,3892.96
+XFC-04128,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2214.21
+XFC-00848,Control,Ninguna,0,2025-09-01,60,False,7,1636.77
+XFC-06233,Control,Ninguna,0,2025-09-01,60,False,3,2499.79
+XFC-00625,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3081.27
+XFC-03909,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,1675.15
+XFC-03239,Control,Ninguna,0,2025-09-01,60,False,1,2106.05
+XFC-02273,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,3317.9
+XFC-06124,Control,Ninguna,0,2025-09-01,60,False,5,3330.58
+XFC-03754,Control,Ninguna,0,2025-09-01,60,False,3,2230.5
+XFC-00757,Control,Ninguna,0,2025-09-01,60,False,3,1960.31
+XFC-05708,Control,Ninguna,0,2025-09-01,60,False,2,1955.65
+XFC-01481,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2687.64
+XFC-03772,Control,Ninguna,0,2025-09-01,60,False,2,2704.2
+XFC-02642,Control,Ninguna,0,2025-09-01,60,False,1,659.75
+XFC-03335,Control,Ninguna,0,2025-09-01,60,False,0,2910.14
+XFC-06996,Control,Ninguna,0,2025-09-01,60,True,0,824.36
+XFC-07657,Control,Ninguna,0,2025-09-01,60,False,6,3343.99
+XFC-05019,Control,Ninguna,0,2025-09-01,60,True,1,283.22
+XFC-05707,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,3492.86
+XFC-04563,Control,Ninguna,0,2025-09-01,60,False,2,2408.74
+XFC-03007,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2053.54
+XFC-00765,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2168.13
+XFC-03978,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3460.99
+XFC-05637,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2006.14
+XFC-01972,Control,Ninguna,0,2025-09-01,60,False,5,2643.64
+XFC-02719,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,3037.59
+XFC-07113,Control,Ninguna,0,2025-09-01,60,False,3,1954.71
+XFC-03899,Control,Ninguna,0,2025-09-01,60,False,2,2681.37
+XFC-07957,Control,Ninguna,0,2025-09-01,60,True,2,0.0
+XFC-01025,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,4521.18
+XFC-02830,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2753.8
+XFC-00753,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2135.32
+XFC-00352,Control,Ninguna,0,2025-09-01,60,False,3,1309.45
+XFC-06990,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2598.9
+XFC-01314,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2141.11
+XFC-06590,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,0.0
+XFC-03743,Control,Ninguna,0,2025-09-01,60,False,5,3011.47
+XFC-07509,Control,Ninguna,0,2025-09-01,60,False,1,1480.12
+XFC-05533,Control,Ninguna,0,2025-09-01,60,False,3,2298.89
+XFC-03066,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-00562,Control,Ninguna,0,2025-09-01,60,False,5,3432.5
+XFC-02465,Tratamiento,Descuento 15%,15,2025-09-01,60,True,2,1037.24
+XFC-04272,Control,Ninguna,0,2025-09-01,60,False,5,2916.79
+XFC-04321,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2263.8
+XFC-06903,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2567.18
+XFC-04817,Control,Ninguna,0,2025-09-01,60,True,1,746.41
+XFC-07692,Control,Ninguna,0,2025-09-01,60,False,4,3259.58
+XFC-01048,Control,Ninguna,0,2025-09-01,60,False,2,2964.29
+XFC-03104,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2832.64
+XFC-01386,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2869.97
+XFC-00415,Control,Ninguna,0,2025-09-01,60,True,1,721.19
+XFC-04003,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3405.77
+XFC-02571,Control,Ninguna,0,2025-09-01,60,True,0,349.92
+XFC-02003,Control,Ninguna,0,2025-09-01,60,False,1,3502.52
+XFC-05945,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,3769.01
+XFC-03115,Control,Ninguna,0,2025-09-01,60,False,1,2688.19
+XFC-07470,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-02663,Control,Ninguna,0,2025-09-01,60,False,3,1486.92
+XFC-04140,Control,Ninguna,0,2025-09-01,60,False,5,2525.59
+XFC-06437,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,3159.16
+XFC-06952,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1506.33
+XFC-02997,Control,Ninguna,0,2025-09-01,60,False,2,2331.38
+XFC-00843,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,1326.5
+XFC-01147,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2016.73
+XFC-01833,Control,Ninguna,0,2025-09-01,60,False,2,3435.66
+XFC-02448,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3414.63
+XFC-06516,Control,Ninguna,0,2025-09-01,60,False,2,2190.0
+XFC-01254,Control,Ninguna,0,2025-09-01,60,False,4,2509.77
+XFC-05396,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2216.01
+XFC-04465,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-06342,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1074.46
+XFC-06493,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,1620.28
+XFC-05890,Control,Ninguna,0,2025-09-01,60,True,1,498.72
+XFC-05671,Control,Ninguna,0,2025-09-01,60,False,1,3667.46
+XFC-00379,Tratamiento,Envío gratis,5,2025-09-01,60,False,7,3937.86
+XFC-05814,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-06828,Control,Ninguna,0,2025-09-01,60,False,1,2252.75
+XFC-06649,Control,Ninguna,0,2025-09-01,60,False,1,2681.29
+XFC-04295,Control,Ninguna,0,2025-09-01,60,False,2,2586.51
+XFC-04861,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2560.79
+XFC-01732,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-04464,Control,Ninguna,0,2025-09-01,60,False,3,1806.39
+XFC-02025,Control,Ninguna,0,2025-09-01,60,True,0,110.58
+XFC-03045,Control,Ninguna,0,2025-09-01,60,True,2,518.97
+XFC-03860,Control,Ninguna,0,2025-09-01,60,True,2,614.44
+XFC-05994,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,2764.04
+XFC-04371,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2582.86
+XFC-05220,Tratamiento,Descuento 15%,15,2025-09-01,60,False,6,2321.09
+XFC-03769,Control,Ninguna,0,2025-09-01,60,False,2,2253.46
+XFC-02754,Control,Ninguna,0,2025-09-01,60,False,2,3182.39
+XFC-05390,Control,Ninguna,0,2025-09-01,60,False,5,1674.48
+XFC-04289,Control,Ninguna,0,2025-09-01,60,False,2,2909.41
+XFC-06335,Control,Ninguna,0,2025-09-01,60,False,7,1065.18
+XFC-03456,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-01455,Control,Ninguna,0,2025-09-01,60,False,4,2726.8
+XFC-03150,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,3081.88
+XFC-03299,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2255.29
+XFC-04702,Control,Ninguna,0,2025-09-01,60,False,2,3153.61
+XFC-03407,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-01176,Control,Ninguna,0,2025-09-01,60,False,4,2502.7
+XFC-04075,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2096.54
+XFC-01439,Control,Ninguna,0,2025-09-01,60,False,5,2282.64
+XFC-02211,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,76.26
+XFC-01996,Control,Ninguna,0,2025-09-01,60,False,1,2659.11
+XFC-03834,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3971.76
+XFC-04467,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,7,4083.62
+XFC-06661,Control,Ninguna,0,2025-09-01,60,False,5,3575.53
+XFC-00548,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2109.4
+XFC-05971,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,1594.25
+XFC-03358,Control,Ninguna,0,2025-09-01,60,True,2,0.0
+XFC-03186,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,0.0
+XFC-01562,Control,Ninguna,0,2025-09-01,60,False,3,2723.92
+XFC-00173,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1889.92
+XFC-04938,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3393.41
+XFC-03615,Control,Ninguna,0,2025-09-01,60,False,1,2594.17
+XFC-03520,Control,Ninguna,0,2025-09-01,60,False,6,3656.69
+XFC-05012,Control,Ninguna,0,2025-09-01,60,False,2,2365.73
+XFC-01594,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2067.82
+XFC-05437,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,1936.28
+XFC-01883,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2700.58
+XFC-07990,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,3383.28
+XFC-07863,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2121.48
+XFC-04801,Control,Ninguna,0,2025-09-01,60,False,4,2827.95
+XFC-06638,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,2403.3
+XFC-05295,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2216.48
+XFC-06648,Control,Ninguna,0,2025-09-01,60,False,7,584.23
+XFC-07274,Control,Ninguna,0,2025-09-01,60,False,3,2228.16
+XFC-01039,Control,Ninguna,0,2025-09-01,60,False,3,1319.03
+XFC-00324,Control,Ninguna,0,2025-09-01,60,False,2,3201.97
+XFC-04082,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,3212.68
+XFC-04952,Control,Ninguna,0,2025-09-01,60,False,2,3207.91
+XFC-04768,Control,Ninguna,0,2025-09-01,60,False,3,3977.58
+XFC-00894,Control,Ninguna,0,2025-09-01,60,False,6,2919.24
+XFC-02318,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,3325.36
+XFC-05101,Control,Ninguna,0,2025-09-01,60,False,3,2982.04
+XFC-00325,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3501.41
+XFC-01216,Control,Ninguna,0,2025-09-01,60,False,3,2652.33
+XFC-07206,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,654.14
+XFC-03998,Tratamiento,Descuento 10%,10,2025-09-01,60,True,2,1081.62
+XFC-04540,Control,Ninguna,0,2025-09-01,60,False,1,1766.17
+XFC-07282,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1751.29
+XFC-07815,Control,Ninguna,0,2025-09-01,60,False,4,2540.6
+XFC-01130,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,2566.42
+XFC-05217,Control,Ninguna,0,2025-09-01,60,False,1,2957.11
+XFC-05956,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,886.86
+XFC-07052,Control,Ninguna,0,2025-09-01,60,False,1,3125.86
+XFC-00665,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,1706.07
+XFC-03329,Control,Ninguna,0,2025-09-01,60,False,2,1818.08
+XFC-06798,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2154.32
+XFC-00209,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,164.37
+XFC-07065,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-00748,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2016.55
+XFC-01740,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2211.82
+XFC-00799,Control,Ninguna,0,2025-09-01,60,False,4,1345.95
+XFC-00089,Control,Ninguna,0,2025-09-01,60,False,4,1696.41
+XFC-00735,Control,Ninguna,0,2025-09-01,60,False,2,3139.16
+XFC-05734,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2133.4
+XFC-03650,Control,Ninguna,0,2025-09-01,60,False,2,3826.72
+XFC-02690,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2307.55
+XFC-01175,Control,Ninguna,0,2025-09-01,60,False,2,3450.41
+XFC-03143,Control,Ninguna,0,2025-09-01,60,False,6,2212.94
+XFC-05188,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-01154,Control,Ninguna,0,2025-09-01,60,True,1,347.5
+XFC-00199,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3270.34
+XFC-07867,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-07451,Control,Ninguna,0,2025-09-01,60,False,3,3215.07
+XFC-01098,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3328.2
+XFC-00549,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,1548.34
+XFC-07926,Control,Ninguna,0,2025-09-01,60,False,2,1606.66
+XFC-06888,Control,Ninguna,0,2025-09-01,60,False,0,3200.23
+XFC-06721,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,1651.09
+XFC-04922,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3046.81
+XFC-01322,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-04158,Control,Ninguna,0,2025-09-01,60,False,2,2803.48
+XFC-06863,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1534.74
+XFC-02651,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2162.88
+XFC-05346,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2816.71
+XFC-04884,Control,Ninguna,0,2025-09-01,60,True,2,0.0
+XFC-05235,Control,Ninguna,0,2025-09-01,60,False,3,2512.51
+XFC-06587,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2018.04
+XFC-07788,Control,Ninguna,0,2025-09-01,60,False,5,3671.37
+XFC-05170,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-07301,Control,Ninguna,0,2025-09-01,60,False,2,1185.5
+XFC-06728,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,1219.95
+XFC-02269,Control,Ninguna,0,2025-09-01,60,False,4,2364.38
+XFC-01672,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,3167.44
+XFC-00938,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2082.25
+XFC-07039,Control,Ninguna,0,2025-09-01,60,False,2,2471.46
+XFC-02671,Control,Ninguna,0,2025-09-01,60,True,0,445.52
+XFC-02779,Tratamiento,Descuento 15%,15,2025-09-01,60,True,1,90.51
+XFC-03165,Control,Ninguna,0,2025-09-01,60,False,0,3247.64
+XFC-04693,Tratamiento,Envío gratis,5,2025-09-01,60,False,6,2824.54
+XFC-05045,Control,Ninguna,0,2025-09-01,60,False,0,4261.08
+XFC-04772,Control,Ninguna,0,2025-09-01,60,False,2,1986.47
+XFC-04377,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2044.56
+XFC-04767,Control,Ninguna,0,2025-09-01,60,False,4,1967.13
+XFC-04302,Control,Ninguna,0,2025-09-01,60,False,0,3962.08
+XFC-05000,Control,Ninguna,0,2025-09-01,60,False,1,2088.25
+XFC-03529,Control,Ninguna,0,2025-09-01,60,False,1,2782.57
+XFC-06804,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-00621,Control,Ninguna,0,2025-09-01,60,False,1,2677.86
+XFC-01453,Control,Ninguna,0,2025-09-01,60,False,0,2782.61
+XFC-07529,Control,Ninguna,0,2025-09-01,60,True,2,774.78
+XFC-04113,Control,Ninguna,0,2025-09-01,60,False,6,3029.49
+XFC-04858,Tratamiento,Descuento 15%,15,2025-09-01,60,False,0,2279.63
+XFC-00479,Control,Ninguna,0,2025-09-01,60,True,0,758.62
+XFC-01353,Control,Ninguna,0,2025-09-01,60,False,0,2254.84
+XFC-04501,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2817.49
+XFC-01895,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,0.0
+XFC-05749,Control,Ninguna,0,2025-09-01,60,False,3,2550.26
+XFC-01719,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2105.71
+XFC-03502,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2506.96
+XFC-01769,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,1,963.91
+XFC-01034,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2493.53
+XFC-03414,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,428.79
+XFC-00287,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2169.81
+XFC-00551,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,1543.2
+XFC-07833,Tratamiento,Descuento 15%,15,2025-09-01,60,True,1,1125.75
+XFC-06707,Control,Ninguna,0,2025-09-01,60,False,1,2816.46
+XFC-04558,Control,Ninguna,0,2025-09-01,60,False,1,3100.39
+XFC-05517,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,0.0
+XFC-02843,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2768.98
+XFC-01784,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2705.81
+XFC-01426,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,3728.86
+XFC-06637,Control,Ninguna,0,2025-09-01,60,False,3,2691.15
+XFC-02590,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,1,0.0
+XFC-05195,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,3003.09
+XFC-05013,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2526.26
+XFC-06919,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1682.99
+XFC-05938,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2295.51
+XFC-01617,Control,Ninguna,0,2025-09-01,60,False,3,1393.33
+XFC-05913,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,3982.15
+XFC-06497,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2475.07
+XFC-07134,Tratamiento,Descuento 10%,10,2025-09-01,60,False,7,3655.99
+XFC-02482,Control,Ninguna,0,2025-09-01,60,False,5,2804.92
+XFC-02652,Control,Ninguna,0,2025-09-01,60,False,1,2525.32
+XFC-03106,Tratamiento,Descuento 15%,15,2025-09-01,60,False,6,4745.49
+XFC-01785,Control,Ninguna,0,2025-09-01,60,False,2,2103.03
+XFC-01576,Control,Ninguna,0,2025-09-01,60,False,3,1563.02
+XFC-04887,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-04640,Control,Ninguna,0,2025-09-01,60,False,5,2282.18
+XFC-00702,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,263.56
+XFC-04636,Control,Ninguna,0,2025-09-01,60,False,3,1821.48
+XFC-04843,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,1669.75
+XFC-06216,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,3526.23
+XFC-04247,Control,Ninguna,0,2025-09-01,60,False,0,1927.59
+XFC-06961,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2320.84
+XFC-02522,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,2548.22
+XFC-05175,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-02355,Control,Ninguna,0,2025-09-01,60,True,0,1598.83
+XFC-04740,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2101.86
+XFC-00834,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,3820.04
+XFC-02226,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,3229.45
+XFC-05850,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,0.0
+XFC-00550,Control,Ninguna,0,2025-09-01,60,False,3,1904.4
+XFC-01021,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,3606.81
+XFC-00249,Control,Ninguna,0,2025-09-01,60,False,3,3234.21
+XFC-02265,Control,Ninguna,0,2025-09-01,60,False,4,1241.61
+XFC-03708,Tratamiento,Descuento 15%,15,2025-09-01,60,False,7,1547.0
+XFC-00297,Control,Ninguna,0,2025-09-01,60,False,2,1947.55
+XFC-02664,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3175.31
+XFC-03001,Control,Ninguna,0,2025-09-01,60,False,3,3156.25
+XFC-06339,Control,Ninguna,0,2025-09-01,60,False,2,1537.48
+XFC-02319,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,1668.95
+XFC-07322,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,2916.21
+XFC-00101,Control,Ninguna,0,2025-09-01,60,False,0,659.07
+XFC-04630,Tratamiento,Envío gratis,5,2025-09-01,60,True,1,292.05
+XFC-04774,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2807.15
+XFC-03839,Control,Ninguna,0,2025-09-01,60,False,6,3910.56
+XFC-02859,Control,Ninguna,0,2025-09-01,60,False,2,3248.63
+XFC-02292,Control,Ninguna,0,2025-09-01,60,False,3,3250.83
+XFC-00533,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,1419.92
+XFC-04694,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2836.22
+XFC-05050,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,2300.26
+XFC-03371,Control,Ninguna,0,2025-09-01,60,False,3,3699.58
+XFC-01371,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,1438.39
+XFC-06627,Control,Ninguna,0,2025-09-01,60,False,6,2010.44
+XFC-00347,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2290.76
+XFC-07619,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,537.3
+XFC-03873,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,3384.34
+XFC-03857,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,1258.69
+XFC-06263,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2073.8
+XFC-00682,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,3953.68
+XFC-06824,Control,Ninguna,0,2025-09-01,60,False,5,1100.15
+XFC-03359,Control,Ninguna,0,2025-09-01,60,False,1,3488.98
+XFC-07606,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,1585.59
+XFC-06396,Control,Ninguna,0,2025-09-01,60,True,1,480.22
+XFC-06487,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2665.16
+XFC-01567,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,3932.14
+XFC-04223,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1822.04
+XFC-06692,Control,Ninguna,0,2025-09-01,60,False,4,2500.27
+XFC-05373,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-06677,Control,Ninguna,0,2025-09-01,60,True,0,248.6
+XFC-05065,Control,Ninguna,0,2025-09-01,60,False,0,1347.66
+XFC-06628,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,3281.98
+XFC-01182,Control,Ninguna,0,2025-09-01,60,True,0,480.65
+XFC-01376,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2301.19
+XFC-07486,Control,Ninguna,0,2025-09-01,60,False,4,2332.63
+XFC-01545,Control,Ninguna,0,2025-09-01,60,True,2,598.82
+XFC-01993,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3424.77
+XFC-06422,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,3099.27
+XFC-04170,Control,Ninguna,0,2025-09-01,60,False,3,2811.06
+XFC-03756,Control,Ninguna,0,2025-09-01,60,False,1,2995.75
+XFC-05909,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2954.67
+XFC-05236,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3034.36
+XFC-06619,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,984.74
+XFC-00085,Control,Ninguna,0,2025-09-01,60,False,5,2892.35
+XFC-05857,Control,Ninguna,0,2025-09-01,60,False,3,2155.0
+XFC-01559,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,3270.24
+XFC-03722,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,3724.65
+XFC-03621,Control,Ninguna,0,2025-09-01,60,False,3,2037.95
+XFC-02628,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-06583,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3034.95
+XFC-00419,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2527.0
+XFC-05609,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,1817.87
+XFC-01783,Control,Ninguna,0,2025-09-01,60,False,2,3315.54
+XFC-03249,Control,Ninguna,0,2025-09-01,60,False,2,2875.4
+XFC-06679,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-04963,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,3287.67
+XFC-07946,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1294.87
+XFC-00294,Control,Ninguna,0,2025-09-01,60,False,2,2779.19
+XFC-05849,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2534.41
+XFC-03648,Control,Ninguna,0,2025-09-01,60,False,2,1891.47
+XFC-07031,Control,Ninguna,0,2025-09-01,60,False,5,805.73
+XFC-06588,Control,Ninguna,0,2025-09-01,60,False,2,2860.35
+XFC-05799,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,1702.04
+XFC-07540,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3715.78
+XFC-02685,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,394.33
+XFC-01150,Control,Ninguna,0,2025-09-01,60,False,1,2372.49
+XFC-01756,Control,Ninguna,0,2025-09-01,60,False,0,2151.63
+XFC-06809,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,1891.54
+XFC-01722,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-06423,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1416.79
+XFC-06051,Tratamiento,Descuento 10%,10,2025-09-01,60,False,9,2669.34
+XFC-02686,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3939.14
+XFC-03528,Tratamiento,Envío gratis,5,2025-09-01,60,False,9,2409.07
+XFC-02572,Control,Ninguna,0,2025-09-01,60,False,4,2923.34
+XFC-02349,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2259.38
+XFC-05710,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2559.85
+XFC-04455,Tratamiento,Descuento 15%,15,2025-09-01,60,False,6,2216.58
+XFC-02313,Control,Ninguna,0,2025-09-01,60,False,2,1927.01
+XFC-07044,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,3131.44
+XFC-07785,Control,Ninguna,0,2025-09-01,60,False,1,2414.69
+XFC-05150,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,3471.06
+XFC-06631,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,169.2
+XFC-04103,Control,Ninguna,0,2025-09-01,60,True,2,274.49
+XFC-06813,Control,Ninguna,0,2025-09-01,60,False,1,1625.99
+XFC-04909,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,1958.04
+XFC-00374,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3309.34
+XFC-06280,Control,Ninguna,0,2025-09-01,60,False,3,3698.52
+XFC-05784,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,1053.16
+XFC-01868,Control,Ninguna,0,2025-09-01,60,True,0,394.23
+XFC-06735,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,1598.61
+XFC-04393,Control,Ninguna,0,2025-09-01,60,False,3,1906.9
+XFC-05460,Control,Ninguna,0,2025-09-01,60,False,5,2829.94
+XFC-01747,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,2793.37
+XFC-02442,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1455.1
+XFC-04787,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2729.72
+XFC-04339,Control,Ninguna,0,2025-09-01,60,False,2,3927.49
+XFC-04252,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2082.97
+XFC-02289,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3971.73
+XFC-03034,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2441.58
+XFC-02639,Control,Ninguna,0,2025-09-01,60,False,5,2508.08
+XFC-01394,Control,Ninguna,0,2025-09-01,60,False,4,3621.5
+XFC-00813,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2131.35
+XFC-05061,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,3429.46
+XFC-01859,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2721.8
+XFC-01870,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2941.21
+XFC-06111,Control,Ninguna,0,2025-09-01,60,False,2,3069.2
+XFC-02875,Control,Ninguna,0,2025-09-01,60,True,0,570.26
+XFC-04388,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,3033.78
+XFC-04770,Control,Ninguna,0,2025-09-01,60,False,3,2071.05
+XFC-06365,Control,Ninguna,0,2025-09-01,60,False,3,2334.1
+XFC-07255,Control,Ninguna,0,2025-09-01,60,False,3,2635.87
+XFC-02284,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2962.03
+XFC-01721,Control,Ninguna,0,2025-09-01,60,False,6,3585.22
+XFC-04589,Tratamiento,Descuento 10%,10,2025-09-01,60,True,1,675.0
+XFC-03533,Control,Ninguna,0,2025-09-01,60,False,5,1885.59
+XFC-07266,Control,Ninguna,0,2025-09-01,60,False,1,2093.61
+XFC-00922,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-00323,Control,Ninguna,0,2025-09-01,60,False,3,2095.96
+XFC-07214,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,3520.76
+XFC-06914,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2793.36
+XFC-06189,Control,Ninguna,0,2025-09-01,60,False,5,2550.02
+XFC-03470,Tratamiento,Descuento 15%,15,2025-09-01,60,False,0,1992.93
+XFC-05367,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2962.04
+XFC-07932,Control,Ninguna,0,2025-09-01,60,False,2,3171.13
+XFC-07659,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2176.53
+XFC-04994,Control,Ninguna,0,2025-09-01,60,False,2,912.62
+XFC-00232,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2684.67
+XFC-01942,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2156.2
+XFC-06881,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,531.5
+XFC-07242,Tratamiento,Puntos dobles,8,2025-09-01,60,False,0,1198.17
+XFC-01080,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,364.85
+XFC-07980,Control,Ninguna,0,2025-09-01,60,False,4,2209.62
+XFC-01116,Control,Ninguna,0,2025-09-01,60,False,6,1710.75
+XFC-06094,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2222.16
+XFC-06833,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3622.98
+XFC-01468,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1853.81
+XFC-05769,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,922.91
+XFC-05715,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2568.27
+XFC-01579,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2728.39
+XFC-06959,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,20.24
+XFC-06862,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2565.1
+XFC-02127,Control,Ninguna,0,2025-09-01,60,False,1,3144.49
+XFC-06203,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,3420.49
+XFC-01451,Control,Ninguna,0,2025-09-01,60,True,0,146.55
+XFC-05068,Control,Ninguna,0,2025-09-01,60,False,2,4432.9
+XFC-03050,Control,Ninguna,0,2025-09-01,60,False,4,3085.67
+XFC-05008,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3033.49
+XFC-05329,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2523.5
+XFC-07602,Control,Ninguna,0,2025-09-01,60,False,3,3579.54
+XFC-06129,Control,Ninguna,0,2025-09-01,60,False,5,2865.91
+XFC-07825,Control,Ninguna,0,2025-09-01,60,False,1,2003.8
+XFC-05398,Control,Ninguna,0,2025-09-01,60,False,1,1446.11
+XFC-01489,Control,Ninguna,0,2025-09-01,60,False,2,1972.85
+XFC-07279,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2311.32
+XFC-05489,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2370.76
+XFC-05275,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1452.35
+XFC-07828,Control,Ninguna,0,2025-09-01,60,False,1,2089.12
+XFC-05649,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,1073.41
+XFC-02826,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2501.18
+XFC-01515,Control,Ninguna,0,2025-09-01,60,False,2,2493.4
+XFC-00266,Control,Ninguna,0,2025-09-01,60,False,6,1115.96
+XFC-00001,Control,Ninguna,0,2025-09-01,60,False,0,2361.38
+XFC-01452,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2297.96
+XFC-03609,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2627.8
+XFC-04983,Control,Ninguna,0,2025-09-01,60,False,5,1991.06
+XFC-02900,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2034.62
+XFC-07812,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2139.85
+XFC-00839,Control,Ninguna,0,2025-09-01,60,False,5,2194.87
+XFC-00015,Control,Ninguna,0,2025-09-01,60,False,3,2085.01
+XFC-03919,Control,Ninguna,0,2025-09-01,60,False,2,2083.92
+XFC-04618,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2373.81
+XFC-07377,Control,Ninguna,0,2025-09-01,60,False,0,3019.26
+XFC-06966,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2062.29
+XFC-00009,Control,Ninguna,0,2025-09-01,60,True,0,287.53
+XFC-06505,Control,Ninguna,0,2025-09-01,60,False,1,3433.44
+XFC-02906,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1187.94
+XFC-02250,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,2797.09
+XFC-01040,Control,Ninguna,0,2025-09-01,60,False,3,3516.68
+XFC-03906,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2398.58
+XFC-06035,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,3329.31
+XFC-03617,Control,Ninguna,0,2025-09-01,60,False,0,3237.93
+XFC-07702,Control,Ninguna,0,2025-09-01,60,False,3,2833.55
+XFC-03681,Control,Ninguna,0,2025-09-01,60,False,3,2101.68
+XFC-00340,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2533.06
+XFC-00122,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2711.41
+XFC-05459,Control,Ninguna,0,2025-09-01,60,False,2,1427.75
+XFC-06400,Control,Ninguna,0,2025-09-01,60,False,0,3262.7
+XFC-01091,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,1021.7
+XFC-06412,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2533.76
+XFC-01373,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,1187.16
+XFC-06022,Tratamiento,Descuento 15%,15,2025-09-01,60,False,6,3650.01
+XFC-01318,Control,Ninguna,0,2025-09-01,60,False,4,1370.66
+XFC-00623,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,3355.44
+XFC-01420,Control,Ninguna,0,2025-09-01,60,False,2,2136.86
+XFC-06068,Control,Ninguna,0,2025-09-01,60,False,7,2362.81
+XFC-07915,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,4145.59
+XFC-02500,Control,Ninguna,0,2025-09-01,60,False,4,1946.41
+XFC-04329,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,3929.78
+XFC-03721,Control,Ninguna,0,2025-09-01,60,True,1,726.27
+XFC-04999,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-03144,Control,Ninguna,0,2025-09-01,60,False,1,3647.08
+XFC-01411,Control,Ninguna,0,2025-09-01,60,False,4,2528.74
+XFC-04483,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2427.0
+XFC-02822,Control,Ninguna,0,2025-09-01,60,False,5,2534.09
+XFC-00890,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,2158.05
+XFC-06253,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3970.92
+XFC-07109,Control,Ninguna,0,2025-09-01,60,False,2,3399.46
+XFC-07117,Control,Ninguna,0,2025-09-01,60,False,2,4005.51
+XFC-07537,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,1732.3
+XFC-07880,Control,Ninguna,0,2025-09-01,60,False,1,2053.75
+XFC-04819,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2319.81
+XFC-00197,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-06439,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3663.93
+XFC-04056,Control,Ninguna,0,2025-09-01,60,False,1,2810.87
+XFC-00416,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,2784.16
+XFC-03218,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,3266.54
+XFC-07213,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,2181.36
+XFC-04664,Control,Ninguna,0,2025-09-01,60,False,2,3597.02
+XFC-00433,Control,Ninguna,0,2025-09-01,60,False,2,1389.1
+XFC-06193,Control,Ninguna,0,2025-09-01,60,False,5,1290.97
+XFC-03940,Control,Ninguna,0,2025-09-01,60,False,5,1135.95
+XFC-03455,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,1688.26
+XFC-07547,Control,Ninguna,0,2025-09-01,60,False,3,3755.53
+XFC-03735,Control,Ninguna,0,2025-09-01,60,False,3,2496.43
+XFC-02158,Control,Ninguna,0,2025-09-01,60,False,4,2043.72
+XFC-05431,Control,Ninguna,0,2025-09-01,60,False,6,2492.67
+XFC-01109,Control,Ninguna,0,2025-09-01,60,False,2,2378.88
+XFC-05629,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,27.37
+XFC-07822,Control,Ninguna,0,2025-09-01,60,False,2,1987.72
+XFC-02281,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2884.07
+XFC-06713,Control,Ninguna,0,2025-09-01,60,False,2,2706.38
+XFC-07226,Control,Ninguna,0,2025-09-01,60,False,4,2523.29
+XFC-03072,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,3188.42
+XFC-01196,Control,Ninguna,0,2025-09-01,60,False,1,2913.84
+XFC-03482,Tratamiento,Envío gratis,5,2025-09-01,60,True,1,975.01
+XFC-05752,Control,Ninguna,0,2025-09-01,60,False,1,3287.42
+XFC-00605,Control,Ninguna,0,2025-09-01,60,False,3,2582.32
+XFC-03108,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,78.34
+XFC-00881,Control,Ninguna,0,2025-09-01,60,False,1,2130.33
+XFC-01220,Control,Ninguna,0,2025-09-01,60,False,4,2649.67
+XFC-02649,Control,Ninguna,0,2025-09-01,60,False,1,1450.15
+XFC-02458,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2195.75
+XFC-06367,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2103.57
+XFC-05781,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2905.41
+XFC-05124,Control,Ninguna,0,2025-09-01,60,False,4,1282.03
+XFC-04326,Control,Ninguna,0,2025-09-01,60,False,2,1658.81
+XFC-06853,Control,Ninguna,0,2025-09-01,60,False,3,3768.33
+XFC-05358,Control,Ninguna,0,2025-09-01,60,True,0,245.27
+XFC-01898,Tratamiento,Descuento 15%,15,2025-09-01,60,True,2,0.0
+XFC-03985,Control,Ninguna,0,2025-09-01,60,True,0,536.46
+XFC-01707,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2598.15
+XFC-01159,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1322.83
+XFC-07047,Control,Ninguna,0,2025-09-01,60,False,1,1771.47
+XFC-04087,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2865.29
+XFC-06287,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,3841.16
+XFC-04374,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2117.06
+XFC-02630,Control,Ninguna,0,2025-09-01,60,True,1,1062.81
+XFC-07805,Control,Ninguna,0,2025-09-01,60,False,1,2611.96
+XFC-05289,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1408.08
+XFC-04383,Control,Ninguna,0,2025-09-01,60,False,6,2994.94
+XFC-01871,Control,Ninguna,0,2025-09-01,60,True,1,871.36
+XFC-05815,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,1756.88
+XFC-01865,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,0,0.0
+XFC-04538,Control,Ninguna,0,2025-09-01,60,False,3,1241.17
+XFC-07444,Tratamiento,Puntos dobles,8,2025-09-01,60,False,2,2019.01
+XFC-02998,Control,Ninguna,0,2025-09-01,60,False,3,3797.38
+XFC-00905,Control,Ninguna,0,2025-09-01,60,False,4,1985.86
+XFC-01447,Control,Ninguna,0,2025-09-01,60,False,6,2718.05
+XFC-07505,Control,Ninguna,0,2025-09-01,60,False,1,2230.06
+XFC-04831,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,988.08
+XFC-01887,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,3491.22
+XFC-07803,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2429.31
+XFC-05929,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2423.1
+XFC-05211,Control,Ninguna,0,2025-09-01,60,False,4,3420.64
+XFC-01566,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,1423.18
+XFC-03796,Control,Ninguna,0,2025-09-01,60,False,3,2126.55
+XFC-07534,Control,Ninguna,0,2025-09-01,60,False,5,2690.27
+XFC-04210,Control,Ninguna,0,2025-09-01,60,False,4,2850.99
+XFC-02389,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,546.26
+XFC-06140,Control,Ninguna,0,2025-09-01,60,False,4,1966.77
+XFC-03222,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2993.41
+XFC-03297,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2469.57
+XFC-02624,Control,Ninguna,0,2025-09-01,60,False,6,2032.56
+XFC-04562,Control,Ninguna,0,2025-09-01,60,False,1,3029.69
+XFC-02400,Tratamiento,Descuento 15%,15,2025-09-01,60,False,8,2471.52
+XFC-05258,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2420.81
+XFC-02304,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,5,2579.39
+XFC-04914,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2427.08
+XFC-05194,Control,Ninguna,0,2025-09-01,60,False,2,2333.44
+XFC-04303,Control,Ninguna,0,2025-09-01,60,False,2,3029.66
+XFC-06154,Control,Ninguna,0,2025-09-01,60,False,0,2910.79
+XFC-04616,Tratamiento,Puntos dobles,8,2025-09-01,60,False,1,2609.67
+XFC-00255,Control,Ninguna,0,2025-09-01,60,False,1,2932.67
+XFC-05282,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2767.82
+XFC-01114,Control,Ninguna,0,2025-09-01,60,True,0,377.12
+XFC-02261,Control,Ninguna,0,2025-09-01,60,True,0,1235.0
+XFC-00222,Control,Ninguna,0,2025-09-01,60,False,6,1196.82
+XFC-00268,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2861.28
+XFC-00108,Tratamiento,Puntos dobles,8,2025-09-01,60,True,2,850.14
+XFC-04728,Control,Ninguna,0,2025-09-01,60,False,6,849.12
+XFC-01227,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,317.97
+XFC-02836,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,1701.87
+XFC-05712,Control,Ninguna,0,2025-09-01,60,False,3,2913.99
+XFC-07295,Control,Ninguna,0,2025-09-01,60,False,3,3248.23
+XFC-05571,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,3957.32
+XFC-01513,Control,Ninguna,0,2025-09-01,60,False,2,4364.08
+XFC-05036,Control,Ninguna,0,2025-09-01,60,False,2,2535.03
+XFC-03204,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,978.12
+XFC-00304,Control,Ninguna,0,2025-09-01,60,False,3,1492.73
+XFC-04429,Control,Ninguna,0,2025-09-01,60,False,4,3495.28
+XFC-04102,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,3684.0
+XFC-03694,Control,Ninguna,0,2025-09-01,60,False,0,1943.39
+XFC-04943,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,2027.08
+XFC-07362,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2612.09
+XFC-01211,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,1806.59
+XFC-05308,Tratamiento,Descuento 15%,15,2025-09-01,60,False,4,2361.75
+XFC-02958,Control,Ninguna,0,2025-09-01,60,False,2,3027.74
+XFC-06920,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,1784.36
+XFC-01437,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,7,2988.17
+XFC-05980,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2027.9
+XFC-07754,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,3127.75
+XFC-05493,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2733.22
+XFC-00377,Control,Ninguna,0,2025-09-01,60,False,3,1926.58
+XFC-02689,Control,Ninguna,0,2025-09-01,60,False,2,1043.31
+XFC-02116,Control,Ninguna,0,2025-09-01,60,True,4,0.0
+XFC-07220,Control,Ninguna,0,2025-09-01,60,False,1,1998.6
+XFC-00756,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,3790.65
+XFC-00292,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,2066.2
+XFC-02996,Control,Ninguna,0,2025-09-01,60,False,3,2564.55
+XFC-04059,Control,Ninguna,0,2025-09-01,60,False,4,1526.44
+XFC-01544,Tratamiento,Descuento 10%,10,2025-09-01,60,False,8,2513.43
+XFC-04161,Control,Ninguna,0,2025-09-01,60,False,4,2482.23
+XFC-00189,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,2798.36
+XFC-04926,Control,Ninguna,0,2025-09-01,60,False,2,2491.07
+XFC-01202,Control,Ninguna,0,2025-09-01,60,False,5,2906.12
+XFC-07479,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,1071.52
+XFC-06559,Control,Ninguna,0,2025-09-01,60,False,2,1543.97
+XFC-01537,Control,Ninguna,0,2025-09-01,60,True,0,97.06
+XFC-07593,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2994.52
+XFC-04598,Control,Ninguna,0,2025-09-01,60,False,3,3120.24
+XFC-00502,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-04680,Control,Ninguna,0,2025-09-01,60,False,1,2885.17
+XFC-03107,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,1853.81
+XFC-02648,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2721.82
+XFC-01540,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2766.0
+XFC-03981,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,3434.03
+XFC-04476,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,1049.6
+XFC-04710,Control,Ninguna,0,2025-09-01,60,False,5,2093.7
+XFC-06836,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,1419.57
+XFC-07407,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,1419.63
+XFC-00673,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,0.0
+XFC-06905,Control,Ninguna,0,2025-09-01,60,False,1,1549.48
+XFC-06673,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2540.37
+XFC-06982,Control,Ninguna,0,2025-09-01,60,False,2,2845.51
+XFC-02477,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-04205,Control,Ninguna,0,2025-09-01,60,False,2,1472.09
+XFC-06981,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2441.72
+XFC-06406,Control,Ninguna,0,2025-09-01,60,True,0,417.6
+XFC-07616,Tratamiento,Descuento 10%,10,2025-09-01,60,True,1,897.37
+XFC-06277,Control,Ninguna,0,2025-09-01,60,False,3,1982.32
+XFC-01193,Control,Ninguna,0,2025-09-01,60,False,4,1691.39
+XFC-06821,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,978.09
+XFC-07963,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1724.17
+XFC-06430,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2412.5
+XFC-07208,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2183.14
+XFC-01514,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2266.5
+XFC-00217,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,3316.02
+XFC-04605,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,3281.07
+XFC-05426,Control,Ninguna,0,2025-09-01,60,False,2,2436.99
+XFC-00422,Control,Ninguna,0,2025-09-01,60,False,2,1670.81
+XFC-00506,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,3870.62
+XFC-05317,Control,Ninguna,0,2025-09-01,60,False,6,3613.69
+XFC-07116,Control,Ninguna,0,2025-09-01,60,False,2,1949.82
+XFC-04459,Control,Ninguna,0,2025-09-01,60,False,4,2753.3
+XFC-03071,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,3171.78
+XFC-01583,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-00507,Control,Ninguna,0,2025-09-01,60,False,7,2569.73
+XFC-02178,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2135.94
+XFC-07686,Control,Ninguna,0,2025-09-01,60,False,5,3313.37
+XFC-07003,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2959.84
+XFC-04845,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2470.75
+XFC-06479,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,2517.86
+XFC-07452,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,251.22
+XFC-01966,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,3858.53
+XFC-04141,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2730.64
+XFC-03612,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2967.65
+XFC-04099,Control,Ninguna,0,2025-09-01,60,False,1,1418.4
+XFC-03351,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,4222.51
+XFC-06469,Control,Ninguna,0,2025-09-01,60,False,7,2843.19
+XFC-05131,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,1743.28
+XFC-02578,Control,Ninguna,0,2025-09-01,60,False,4,1451.78
+XFC-00348,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2765.59
+XFC-07066,Control,Ninguna,0,2025-09-01,60,True,0,504.69
+XFC-06716,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,3370.98
+XFC-00334,Control,Ninguna,0,2025-09-01,60,False,5,1818.9
+XFC-04828,Control,Ninguna,0,2025-09-01,60,False,3,2270.54
+XFC-06947,Control,Ninguna,0,2025-09-01,60,True,1,710.23
+XFC-07956,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2106.95
+XFC-03394,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2909.81
+XFC-06591,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,126.66
+XFC-07002,Control,Ninguna,0,2025-09-01,60,False,2,3358.27
+XFC-06174,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2714.67
+XFC-07493,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,6,1256.75
+XFC-03622,Control,Ninguna,0,2025-09-01,60,False,4,2912.36
+XFC-05521,Control,Ninguna,0,2025-09-01,60,False,6,1835.9
+XFC-00747,Control,Ninguna,0,2025-09-01,60,False,3,2241.53
+XFC-01564,Control,Ninguna,0,2025-09-01,60,True,0,1368.07
+XFC-07923,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,3233.32
+XFC-03039,Control,Ninguna,0,2025-09-01,60,False,3,4274.74
+XFC-03308,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2620.12
+XFC-04619,Control,Ninguna,0,2025-09-01,60,False,2,3039.24
+XFC-06435,Control,Ninguna,0,2025-09-01,60,False,2,2127.55
+XFC-02276,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,2813.19
+XFC-06871,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1199.17
+XFC-02334,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1821.62
+XFC-02993,Control,Ninguna,0,2025-09-01,60,False,1,1975.88
+XFC-05897,Control,Ninguna,0,2025-09-01,60,False,2,2773.62
+XFC-06387,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,1972.59
+XFC-07398,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3749.69
+XFC-02928,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,1854.83
+XFC-00260,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-07329,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,1842.51
+XFC-05705,Control,Ninguna,0,2025-09-01,60,False,3,1480.06
+XFC-05313,Control,Ninguna,0,2025-09-01,60,False,5,1483.83
+XFC-06788,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,1592.68
+XFC-00381,Control,Ninguna,0,2025-09-01,60,False,5,2748.22
+XFC-05169,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,2519.22
+XFC-02570,Tratamiento,Descuento 15%,15,2025-09-01,60,True,0,0.0
+XFC-02228,Control,Ninguna,0,2025-09-01,60,False,0,1858.31
+XFC-00600,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,3776.8
+XFC-01845,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,1470.3
+XFC-00046,Control,Ninguna,0,2025-09-01,60,False,0,2792.82
+XFC-01445,Control,Ninguna,0,2025-09-01,60,False,2,2946.45
+XFC-01653,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,2015.65
+XFC-01587,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,769.41
+XFC-05118,Control,Ninguna,0,2025-09-01,60,False,2,1943.58
+XFC-01894,Control,Ninguna,0,2025-09-01,60,True,0,197.75
+XFC-05325,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,2255.49
+XFC-05575,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,2651.19
+XFC-05134,Control,Ninguna,0,2025-09-01,60,False,1,2899.07
+XFC-05323,Tratamiento,Envío gratis,5,2025-09-01,60,False,5,4026.5
+XFC-04382,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2755.1
+XFC-07652,Control,Ninguna,0,2025-09-01,60,False,5,2145.12
+XFC-02692,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,4042.1
+XFC-02311,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2031.15
+XFC-03791,Tratamiento,Descuento 15%,15,2025-09-01,60,False,5,2413.07
+XFC-07019,Tratamiento,Puntos dobles,8,2025-09-01,60,False,4,2432.31
+XFC-06227,Control,Ninguna,0,2025-09-01,60,False,1,3446.67
+XFC-03380,Tratamiento,Envío gratis,5,2025-09-01,60,False,1,2179.49
+XFC-04016,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2746.81
+XFC-01601,Control,Ninguna,0,2025-09-01,60,False,1,3022.67
+XFC-06635,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,1982.0
+XFC-05689,Control,Ninguna,0,2025-09-01,60,False,2,3743.8
+XFC-03361,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,0.0
+XFC-06275,Control,Ninguna,0,2025-09-01,60,False,3,2095.5
+XFC-02852,Control,Ninguna,0,2025-09-01,60,False,5,3014.99
+XFC-04447,Control,Ninguna,0,2025-09-01,60,False,3,1472.43
+XFC-05820,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,1625.71
+XFC-01299,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2137.18
+XFC-00427,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2122.8
+XFC-03442,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,1224.86
+XFC-00806,Tratamiento,Puntos dobles,8,2025-09-01,60,True,0,847.88
+XFC-02274,Control,Ninguna,0,2025-09-01,60,False,4,2772.65
+XFC-00411,Tratamiento,Descuento 10%,10,2025-09-01,60,False,0,2659.69
+XFC-06694,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,3145.98
+XFC-00666,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,4572.58
+XFC-02463,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2679.05
+XFC-00439,Tratamiento,Envío gratis,5,2025-09-01,60,False,0,2888.1
+XFC-05526,Control,Ninguna,0,2025-09-01,60,True,1,0.0
+XFC-07131,Control,Ninguna,0,2025-09-01,60,False,2,3759.23
+XFC-00435,Control,Ninguna,0,2025-09-01,60,False,0,2856.37
+XFC-05266,Control,Ninguna,0,2025-09-01,60,False,1,1660.56
+XFC-00752,Control,Ninguna,0,2025-09-01,60,False,6,2207.32
+XFC-01953,Control,Ninguna,0,2025-09-01,60,False,2,1974.97
+XFC-02134,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2298.47
+XFC-05014,Control,Ninguna,0,2025-09-01,60,False,4,2254.38
+XFC-03160,Control,Ninguna,0,2025-09-01,60,True,0,0.0
+XFC-04776,Control,Ninguna,0,2025-09-01,60,False,2,1074.67
+XFC-07836,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,1936.2
+XFC-06476,Control,Ninguna,0,2025-09-01,60,False,2,2210.25
+XFC-03136,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,1639.15
+XFC-01050,Control,Ninguna,0,2025-09-01,60,False,2,1849.01
+XFC-00627,Control,Ninguna,0,2025-09-01,60,False,3,2708.25
+XFC-01776,Control,Ninguna,0,2025-09-01,60,False,3,3112.43
+XFC-03040,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,2428.1
+XFC-02179,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,3536.89
+XFC-01224,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,388.91
+XFC-00211,Tratamiento,Descuento 15%,15,2025-09-01,60,False,6,1591.06
+XFC-06135,Control,Ninguna,0,2025-09-01,60,False,2,2986.6
+XFC-03962,Tratamiento,Descuento 15%,15,2025-09-01,60,False,1,1474.55
+XFC-06823,Control,Ninguna,0,2025-09-01,60,False,2,2522.93
+XFC-00111,Control,Ninguna,0,2025-09-01,60,False,1,3150.33
+XFC-00052,Tratamiento,Puntos dobles,8,2025-09-01,60,False,5,2330.46
+XFC-01500,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,2324.72
+XFC-01110,Control,Ninguna,0,2025-09-01,60,False,3,3286.46
+XFC-01465,Control,Ninguna,0,2025-09-01,60,False,5,2006.74
+XFC-07776,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,2552.43
+XFC-02037,Control,Ninguna,0,2025-09-01,60,False,4,3178.54
+XFC-00653,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,2,3138.12
+XFC-02338,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,4,1867.43
+XFC-02727,Control,Ninguna,0,2025-09-01,60,False,7,2406.04
+XFC-05598,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,1,2545.38
+XFC-04775,Control,Ninguna,0,2025-09-01,60,False,1,2104.07
+XFC-03856,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,3,1689.2
+XFC-07217,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,2418.12
+XFC-01796,Tratamiento,Llamada personalizada,0,2025-09-01,60,True,0,131.2
+XFC-01703,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,2487.96
+XFC-06441,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3368.27
+XFC-02670,Tratamiento,Descuento 10%,10,2025-09-01,60,False,2,2139.48
+XFC-04592,Control,Ninguna,0,2025-09-01,60,False,1,3540.08
+XFC-03788,Tratamiento,Descuento 10%,10,2025-09-01,60,True,0,989.86
+XFC-05158,Control,Ninguna,0,2025-09-01,60,False,3,2265.59
+XFC-02946,Tratamiento,Descuento 10%,10,2025-09-01,60,False,4,1946.6
+XFC-01499,Control,Ninguna,0,2025-09-01,60,False,2,3667.94
+XFC-02942,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2854.9
+XFC-06925,Control,Ninguna,0,2025-09-01,60,False,5,3161.23
+XFC-06483,Control,Ninguna,0,2025-09-01,60,False,2,2976.24
+XFC-06218,Tratamiento,Descuento 10%,10,2025-09-01,60,False,6,2751.08
+XFC-06267,Tratamiento,Llamada personalizada,0,2025-09-01,60,False,0,2971.81
+XFC-04825,Tratamiento,Descuento 10%,10,2025-09-01,60,False,3,2059.72
+XFC-05877,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2045.63
+XFC-05966,Control,Ninguna,0,2025-09-01,60,True,1,1796.58
+XFC-03976,Tratamiento,Puntos dobles,8,2025-09-01,60,False,3,3029.84
+XFC-05203,Tratamiento,Envío gratis,5,2025-09-01,60,False,2,1564.97
+XFC-02511,Control,Ninguna,0,2025-09-01,60,False,3,2155.83
+XFC-02084,Control,Ninguna,0,2025-09-01,60,False,1,3182.08
+XFC-00706,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,3179.84
+XFC-01873,Tratamiento,Descuento 15%,15,2025-09-01,60,False,3,2413.75
+XFC-02517,Control,Ninguna,0,2025-09-01,60,False,3,2843.74
+XFC-05580,Tratamiento,Envío gratis,5,2025-09-01,60,False,3,1932.33
+XFC-04668,Tratamiento,Descuento 15%,15,2025-09-01,60,False,2,2450.59
+XFC-00058,Tratamiento,Descuento 10%,10,2025-09-01,60,False,1,2420.46
+XFC-01919,Tratamiento,Envío gratis,5,2025-09-01,60,False,4,1433.55
+XFC-07903,Tratamiento,Descuento 10%,10,2025-09-01,60,False,5,3593.14
+XFC-03729,Control,Ninguna,0,2025-09-01,60,False,2,1721.01
