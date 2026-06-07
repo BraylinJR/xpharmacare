@@ -1,0 +1,18 @@
+﻿{
+  "name": "Custom",
+  "textClasses": {
+    "header": {
+      "fontFace": "Outfit",
+      "color": "#242422"
+    },
+    "callout": {
+      "fontFace": "JetBrains Mono"
+    },
+    "title": {
+      "fontFace": "Outfit"
+    },
+    "label": {
+      "fontFace": "Outfit"
+    }
+  }
+}
